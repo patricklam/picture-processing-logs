@@ -1,0 +1,126 @@
+090101-leaving-las-vegas
+https://gallery.patricklam.ca/index.php?/category/1775
+
+*West Coast of NZ, September 2021*
+
+210920-2-waiatoto-jetboat-and-penguins
+https://gallery.patricklam.ca/index.php?/category/1759
+
+210921-west-coast-wildlife-centre
+https://gallery.patricklam.ca/index.php?/category/1761
+
+210922-hokitika
+https://gallery.patricklam.ca/index.php?/category/1762
+
+*West Coast of North America, May 2023*
+
+230505-devils-slide-again
+https://gallery.patricklam.ca/index.php?/category/1758
+
+230510-underground-seattle
+https://gallery.patricklam.ca/index.php?/category/1765
+
+*Petrel Station, August 2023*
+
+230807-2-waipu
+https://gallery.patricklam.ca/index.php?/category/1755
+
+*Skiing, August 2023*
+
+230819-to-cardrona-and-short-day-1
+https://gallery.patricklam.ca/index.php?/category/1757
+
+230820-cardrona-day-2
+https://gallery.patricklam.ca/index.php?/category/1764
+
+*Matiu/Somes Island, September 2023*
+
+230902-matiu-somes-island-day-1
+https://gallery.patricklam.ca/index.php?/category/1763
+
+230903-matiu-somes-island-day-2
+https://gallery.patricklam.ca/index.php?/category/1760
+
+*Calgary et al, September 2023*
+
+230919-sydney
+https://gallery.patricklam.ca/index.php?/category/1770
+
+*MP visits Canada, July 2022*
+
+220715-lower-apron
+https://gallery.patricklam.ca/index.php?/category/1768
+
+220716-diedre
+https://gallery.patricklam.ca/index.php?/category/1773
+
+220718-leaving-yvr
+https://gallery.patricklam.ca/index.php?/category/1774
+
+
+in progress:
+
+230916-panorama-ridge
+
+next in queue:
+
+
+---
+
+book review:
+
+The last book from my 7-book haul was about Wellington Railways. A book for railfans. I've written about getting around NZ 100 years ago and reviewed Andre Brett's book on the national rail system. This book is about Wellington trains.
+
+David Parsons. Wellington Railways: Colonial Steam to Matangi. 2010.
+
+This book is certainly not lacking in detail. It covers the early development of Wellington region rail (different parts of this country, and I guess many others, were quite isolated 150 years ago) until 1920; refinements from 1920 to 
+1970; and the changes from 1970 to 2010. Wellington rail did manage to mostly hang on through the global Reagan-Thatcher neoliberal area, until a recent expansion. The tramways didn't make it, though, and it actually is kind of hard to 
+get from one end of central Wellington to the other end. A good LRT would help with that.
+
+There is a fulsome description of the lines and the railway equipment. Equipment mostly isn't that interesting to me, but I actually do care about HVAC these days. Turns out that, even though the windows don't open on the newest Matangi 
+equipment, there is ventilation through HVAC; if there is bad air outside, it can be set to recirc (where you might get all the recirculated viruses also). Before the now Matangi equipment (2010) there was then-50-year-old English 
+Electric and (Hungarian) Ganz Mavag equipment. There are also descriptions of the Cook Strait cargo planes and ferries (the ones that can transport railcars) and a note that the "Iron Sailor" is a NZ-developed suction device for mooring, 
+replacing ropes.
+
+There's also mention of the Cable Car. Back in 2010 it ran until 10pm on weekdays. That would have been an option for getting home from judo, versus the brutal uphill climb. It's hard to find out when that changed. The Internet Archive 
+might have some information, but then I'd need to navigate the Archive.
+
+We've seen that NZ Railway wasn't great in the previous train book review. Wellington and Manawatu Railway was private and this book says that it managed its assets well (and made money). It had a liquidity crunch before it started 
+operations but managed to solve it by selling fares and shipping freight and profited, investing in upgrades, including importing lots of US equipment. Eventually, after 21 years, it was purchased by the Government and integrated into NZ 
+Railways, as originally planned when it was founded. Nationalization! They did that in 1908!
+
+There isn't generally much other talk of NZR being anti train (as Brett shows), but there is this line near the end: "The Gracefield line suffered at the hands of the almost anti-rail policies of the management of Tranz Rail".
+
+
+Also, reading the early history, I found that I had actually heard of many of the places mentioned on Hutt Road; I bike past them. They were very different, or under water, 150 years ago.
+Building around Wellington was, and is, seismically and topographically complicated. Machinery and our knowledge of science and engineering helps these days. How did they? Well, not very sturdily.
+
+Some quotes:
+
+* "Like many stations on the suburban system, Plimmerton used to boast a full range of facilities for the travelling public." (In particular: toilets, bookstall). Many Swiss stations have that.
+
+* "In Wellington the revenue covered only 60 percent of the expenditure and although this was considerably better than the 25 per cent covered in Auckland, Christchurch and Dunedin, it called for some action either by cuts in services or 
+financial support to reduce the deficit." (Late 1960s) Did it really? Or should we subsidize transit?
+
+* "The success of these trains [to Paraparaumu] was soon apparent. It was reported that about 300 people were travelling into Wellington each day." (The Te Huia Auckland-Hamilton train seems to have 350 daily passengers after a 2021 
+launch.)
+
+* "Many of thse [permanent station] buildings have now been destroyed due to vandalism and lack of respect, many having been replaced or reduced to little more than waiting shelters." Also I bet it's in the architecture of the places. In 
+the next paragraph, the text talks about how the vandalism started when staff were withdrawn. Uh, yes?
+
+Other observations:
+
+* The book mentions traffic between intermediate stations (e.g. between Upper Hutt and Silverstream), a concept which GO Transit in Ontario has trouble with.
+* Units of measure: miles, chains, pounds, shillings.
+* Trains were slow!
+* More service = more passengers. Who woulda thought.
+* What's with the sans-serif font?
+
+---
+acquisitions
+
+MEC true:
+emergency light with CR3032s $5
+FemtoUSBFrontLight-FRONT-NOCO2 982640
+11007155 MEC ReversibleToq 1SZFA-DBF06
+
