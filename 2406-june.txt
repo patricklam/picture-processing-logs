@@ -1,11 +1,15 @@
+210926-zealandia (11/43)
+https://gallery.patricklam.ca/picture.php?/category/1888
+
 221230-wanaka-to-wellington (38/157)
 https://gallery.patricklam.ca/index.php?/category/1886
+
+230701-skyline (34/127)
+https://gallery.patricklam.ca/index.php?/category/1887
 
 next in queue:
 
 240429-hobart (/146)
-210428-at-home-rawhiti-tce (/5)
-230701-skyline (/127)
 
 other in queue:
 
@@ -13,3 +17,6 @@ other in queue:
 
 acquisitions:
 
+covid:
+
+https://www.stuff.co.nz/nz-news/350302104/covid-19-rats-remain-free-through-winter-amid-spike-cases
