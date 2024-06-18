@@ -1,10 +1,12 @@
 ## The List
 
-To do, all from 2021 (days):
-* Zealandia (September 9), Wellington Sunset (November 12)
-
 Even more pictures from 2022:
-* [May] trips 1 and 2 to Montreal (judo nationals), not on computer yet
+* [April] wlg-to-yyz
+    220430
+* [May] misc
+    220515 220529
+* [May] Nationals
+    220519 220520 220522 220523
 * [September] Napier (2)
 * [September] Motueka (2)
 * [November] New Plymouth (4 days with more than a few pictures)
@@ -34,7 +36,7 @@ And 2023:
 * [January] AMC (6)
    230101 230102 230103 230104 230105 230106
 * [May] Montreal and NZ (4)
-   230518 230522 230523 230525
+   230522 (/37) 230523 (/109) 230525 (/86)
 * [August] Petrel Station (1)
    230806
 * [August] Rotorua (quick)
@@ -68,3 +70,19 @@ And 2023:
    240428 240429 240430 240504 240505 240506 240507
 * [May] Christchurch/Queenstown/Ben Lomond/Welcome Track/Doubtful Sound (8)
    240518 240520 240521 240522 240523 240524 240525 240526
+
+## Supplementary list
+
+* 2021 cellphone pictures:
+- January
+- February
+- March
+- April
+- May
+- June
+- July
+- August
+- September
+- October
+- November
+- December
