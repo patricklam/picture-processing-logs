@@ -7,6 +7,9 @@ https://gallery.patricklam.ca/index.php?/category/1618
 210926-zealandia (11/43)
 https://gallery.patricklam.ca/picture.php?/category/1888
 
+211026-wellington (14/52)
+https://gallery.patricklam.ca/index.php?/category/1907
+
 211027-botanic-garden (26/146)
 https://gallery.patricklam.ca/index.php?/category/1894
 
@@ -34,6 +37,9 @@ https://gallery.patricklam.ca/index.php?/category/1901
 220903-1-napier-and-market (39/57)
 https://gallery.patricklam.ca/index.php?/category/1905
 
+220903-2-national-aquarium (29/188)
+https://gallery.patricklam.ca/index.php?/category/1908
+
 221230-wanaka-to-wellington (38/157)
 https://gallery.patricklam.ca/index.php?/category/1886
 
@@ -46,6 +52,9 @@ https://gallery.patricklam.ca/index.php?/category/1887
 240429-hobart (69/146)
 https://gallery.patricklam.ca/index.php?/category/1891
 
+240504-overland-track-day-4-to-kia-ora (74/285)
+https://gallery.patricklam.ca/index.php?/category/1906
+
 240520-queenstown-to-gibbston (43/137)
 https://gallery.patricklam.ca/index.php?/category/1889
 
@@ -55,30 +64,18 @@ https://gallery.patricklam.ca/index.php?/category/1898
 240608-judo-nomad (49/122)
 https://gallery.patricklam.ca/index.php?/category/1890
 
-next in queue:
-
-
-240504-overland-track-day-4-to-kia-ora (/285)
-220903-2-national-aquarium (/188)
-220903-3-ahiriri-estuary (/118)
-220904-te-mata-peak-and-bells-rock (/64)
-240524-doubtful-sound-navigator-day-1 (/438)
-
-other in queue:
-
-240525-doubtful-sound-navigator-day-2 (/585)
-240522-welcome-rock-day-1 (/314)
-240523-welcome-rock-day-2 (/239)
-240526-doubtful-sound-navigator-day-3 (/254)
 
 acquisitions:
 blender
+bd1500 battery
 
-covid:
+covid news:
 
 https://www.stuff.co.nz/nz-news/350302104/covid-19-rats-remain-free-through-winter-amid-spike-cases
 
-dodged chairing a PhD exam
+other:
+
+dodged being on a PhD committee (4am) and chairing a PhD exam (got request for next day and then "oh never mind we found someone")
 
 new COVID vaccine formulation for fall
 
