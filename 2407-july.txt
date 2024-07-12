@@ -1,3 +1,6 @@
+120312-telemark-world-cup (17/45)
+https://gallery.patricklam.ca/index.php?/category/1918
+
 220520-veterans-nationals (13/19)
 https://gallery.patricklam.ca/index.php?/category/1912
 
@@ -22,18 +25,26 @@ https://gallery.patricklam.ca/index.php?/category/1913
 240505-overland-track-day-5-to-bert-nichols (44/199)
 https://gallery.patricklam.ca/index.php?/category/1917
 
+220909-to-motueka (19/45)
+220911-motueka-south-islands-and-back-to-wellington (22/42)
+https://gallery.patricklam.ca/index.php?/category/1919
+
+230523-yul-to-yvr (54/109)
+https://gallery.patricklam.ca/index.php?/category/1920
+
+230525-yvr-to-wlg (37/86)
+https://gallery.patricklam.ca/index.php?/category/1921
+
 to upload:
 
 next in queue:
 
-120312-telemark-world-cup (/45)
+220515-waterloo (/11)
 
-220909-to-motueka (/45)
-220911-motueka-south-islands-and-back-to-wellington (/42)
+240506-overland-track-day-6-to-narcissus (/187)
 
-230523-yul-to-yvr (/109)
-230525-yvr-to-wlg (/86)
 230929-to-taupo (/72)
+230930-taupo (/299)
 
 240524-doubtful-sound-navigator-day-1 (/438)
 240630-old-ghost-road-day-3-to-specimen-point (/242)
@@ -41,13 +52,11 @@ next in queue:
 
 other in queue:
 
-220515-waterloo (/11)
 220529-waterloo (/16)
 240525-doubtful-sound-navigator-day-2 (/585)
 240522-welcome-rock-day-1 (/314)
 240523-welcome-rock-day-2 (/239)
 240526-doubtful-sound-navigator-day-3 (/254)
-230930-taupo (/299)
 231001-on-lake-taupo-and-leaving (/304)
 221001-zealandia-morning-photography (/169)
 221008-lens-tests (/49)
@@ -61,3 +70,5 @@ https://journals.asm.org/doi/10.1128/mbio.01088-24
 
 quebec covid wave
 https://montrealgazette.com/news/local-news/analysis-quebec-in-midst-of-new-covid-19-summer-wave
+
+write about the May 23 2023 travel adventures with retrieving stuff etc
