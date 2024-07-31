@@ -1,5 +1,9 @@
+# Ancient, Chamonix, 2012
+
 120312-telemark-world-cup (17/45)
 https://gallery.patricklam.ca/index.php?/category/1918
+
+# Canadian Nationals, May 2022
 
 220520-veterans-nationals (13/19)
 https://gallery.patricklam.ca/index.php?/category/1912
@@ -10,11 +14,10 @@ https://gallery.patricklam.ca/index.php?/category/1916
 220523-yul-to-yyz (25/53)
 https://gallery.patricklam.ca/index.php?/category/1915
 
+# Napier, September 2022
+
 220903-3-ahiriri-estuary (19/118)
 https://gallery.patricklam.ca/index.php?/category/1909
-
-230522-montreal (21/37)
-https://gallery.patricklam.ca/index.php?/category/1910
 
 220904-te-mata-peak-and-bells-rock (46/141)
 https://gallery.patricklam.ca/index.php?/category/1914
@@ -22,12 +25,24 @@ https://gallery.patricklam.ca/index.php?/category/1914
 220905-back-to-wellington (7/18)
 https://gallery.patricklam.ca/index.php?/category/1913
 
-240505-overland-track-day-5-to-bert-nichols (44/199)
-https://gallery.patricklam.ca/index.php?/category/1917
+# South Island Championships, Motueka, 2022
 
 220909-to-motueka (19/45)
 220911-motueka-south-islands-and-back-to-wellington (22/42)
 https://gallery.patricklam.ca/index.php?/category/1919
+
+# Miscellaneous
+
+221031-kelburn (65/150)
+https://gallery.patricklam.ca/index.php?/category/1928
+
+230101-miramar (45/138)
+https://gallery.patricklam.ca/index.php?/category/1930
+
+# Canadian Nationals, May 2023
+
+230522-montreal (21/37)
+https://gallery.patricklam.ca/index.php?/category/1910
 
 230523-yul-to-yvr (54/109)
 https://gallery.patricklam.ca/index.php?/category/1920
@@ -35,33 +50,52 @@ https://gallery.patricklam.ca/index.php?/category/1920
 230525-yvr-to-wlg (37/86)
 https://gallery.patricklam.ca/index.php?/category/1921
 
-to upload:
+# Taupō, September 2023
+
+230929-to-taupo (29/72)
+https://gallery.patricklam.ca/index.php?/category/1923
+
+230930-0-craters-of-the-moon (50/148)
+https://gallery.patricklam.ca/index.php?/category/1926
+
+230930-1-huka-falls-and-bees (20/57)
+https://gallery.patricklam.ca/index.php?/category/1927
+
+230930-2-wairakei-terraces (35/94)
+https://gallery.patricklam.ca/index.php?/category/1925
+
+# Overland Track
+
+240505-overland-track-day-5-to-bert-nichols (44/199)
+https://gallery.patricklam.ca/index.php?/category/1917
+
+240506-overland-track-day-6-to-narcissus (59/187)
+https://gallery.patricklam.ca/index.php?/category/1924
+
+240507-back-to-wlg (25/49)
+https://gallery.patricklam.ca/index.php?/category/1931
+
+
+final check/to upload:
 
 next in queue:
 
-220515-waterloo (/11)
-
-240506-overland-track-day-6-to-narcissus (/187)
-
-230929-to-taupo (/72)
-230930-taupo (/299)
+221231-nye-wellington (/123)
 
 240524-doubtful-sound-navigator-day-1 (/438)
-240630-old-ghost-road-day-3-to-specimen-point (/242)
 
+240102-nelson-mountain-station (/87)
+
+
+240630-old-ghost-road-day-3-to-specimen-point (/242)
 
 other in queue:
 
-220529-waterloo (/16)
 240525-doubtful-sound-navigator-day-2 (/585)
 240522-welcome-rock-day-1 (/314)
 240523-welcome-rock-day-2 (/239)
 240526-doubtful-sound-navigator-day-3 (/254)
 231001-on-lake-taupo-and-leaving (/304)
-221001-zealandia-morning-photography (/169)
-221008-lens-tests (/49)
-221009-zealandia (/140)
-221031-kelburn (/47)
 
 covid news:
 
@@ -72,3 +106,8 @@ quebec covid wave
 https://montrealgazette.com/news/local-news/analysis-quebec-in-midst-of-new-covid-19-summer-wave
 
 write about the May 23 2023 travel adventures with retrieving stuff etc
+
+long covid rates
+https://www.nejm.org/doi/full/10.1056/NEJMoa2403211
+
+purchases: Futura rock shoes on sale
