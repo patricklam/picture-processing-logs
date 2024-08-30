@@ -66,14 +66,12 @@ And 2023:
    240615
 * [June] Kapiti Island (2)
    240622 240623
-* [June/July] Old Ghost Road (7)
-   240627 240628 240629 240630 240701 240702 240703
+* [June/July] Old Ghost Road (6)
+   240627 240628 240629 240701 240702 240703
 * [July] Melbourne/Cairns (7)
    240721 (/147) 240722 240723 240724 240725 240726
-* [August] Snowcraft (1)
-   240804
-* [August] Waikato Bays Open (4)
-   240809 240810 240811 240812
+* [August] Waikato Bays Open (2)
+   240809 240812
 * [August] Catlins (3)
    240817 240817 240818
 
