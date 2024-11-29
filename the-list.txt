@@ -1,14 +1,8 @@
 ## The List
 
 From 2022:
-* [November] Radome/Red Rocks/Wellington
-    221126 221127
-* [November] Remutaka overnight (2)
-    221130 221201
-* [December] Kereru (03 Dec), Zealandia (05 Dec)
-    221203 221205
 * [December] Auckland
-    221210-random-akl
+    221206 221209
 * [December] Wanaka Grebes (3)
     221219 221228 221229
 * [December] Gillepsie Circuit (4)
@@ -46,8 +40,8 @@ And 2023:
    240107 240114 240122 240424 240603
 * [February] Travers-Sabine (7)
    240203 240204 240205 240206 240207 240208 240209
-* [May] Christchurch/Queenstown/Ben Lomond/Welcome Track/Doubtful Sound (3)
-   240525 240526
+* [May] Doubtful Sound (2)
+   240526
 * [June] Light Cycles
    240605
 * [June] Nairn St Cottage
@@ -57,16 +51,22 @@ And 2023:
 * [June/July] Old Ghost Road (6)
    240627 240628 240629 240701 240702 240703
 * [July] Melbourne/Cairns (7)
-   240721 (/147) 240722 240723 240724 240725 240726
+   240722 240723 240724 240725 240726
 * [August] Catlins (3)
    240817 240817 240818
+* [September] Skyline
 * [September] Japan (6)
    240921 240922 240927 240928 240929 240930
-* [October] Flagstaff (3)
-   241005-1 241005-2 241008 241009 
+* [October] Rotorua (1)
+   241013
+* [October] Ontario
+   241016/17/18/19/20 
 * [October] Pasadena
-   241024
-
+   241021/22/23 241024 241025/26 241027 241029
+* [November] Remutakas (2)
+   241101 241102
+* [November] Johnston Hill and Zealandia
+   241109
 
 ## Supplementary list
 
