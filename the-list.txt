@@ -1,20 +1,16 @@
 ## The List
 
 From 2022:
-* [December] Auckland
-    221206 221209
-* [December] Wanaka Grebes (3)
-    221219 221228 221229
 * [December] Gillepsie Circuit (4)
     221220 221221 221222 221223
 * [December] Omarama
     221223
-* [December] Glacier iceberg kayaking
+* [December] Glacier iceberg kayaking/Glentanner birds
     221224-1 221224-2
-* [December] Mueller Hut (2)
-    221225 221226
 
 And 2023:
+* Various (5)
+   231029 231102 231116 231122 231206
 * [January] AMC (5)
    230102 230103 230104 230105 230106
 * [August] Rotorua (quick)
@@ -32,15 +28,13 @@ And 2023:
    231129 231130 231202 231203 231204 231205
 * [December] Seattle, Montreal, Nelson (4)
    231212 231214 231224 231225
-* Various (5)
-   231029 231102 231116 231122 231206
 
 2024:
-* Various
+* Various (5)
    240107 240114 240122 240424 240603
 * [February] Travers-Sabine (7)
    240203 240204 240205 240206 240207 240208 240209
-* [May] Doubtful Sound (2)
+* [May] Doubtful Sound (1)
    240526
 * [June] Light Cycles
    240605
@@ -63,10 +57,12 @@ And 2023:
    241016/17/18/19/20 
 * [October] Pasadena
    241021/22/23 241024 241025/26 241027 241029
-* [November] Remutakas (2)
-   241101 241102
+* [November] Remutakas (1)
+   241102
 * [November] Johnston Hill and Zealandia
    241109
+* [November] Gisborne (4)
+   241128 241129 241130 241201
 
 ## Supplementary list
 
