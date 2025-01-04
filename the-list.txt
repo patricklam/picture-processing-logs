@@ -2,18 +2,13 @@
 
 From 2022:
 * [December] Gillepsie Circuit (4)
-    221220 221221 221222 221223
-* [December] Omarama
-    221223
-* [December] Glacier iceberg kayaking/Glentanner birds
-    221224-1 221224-2
+    221220 221221 221222
 
-And 2023:
-* Various (5)
-   231029 231102 231116 231122 231206
+2023:
 * [January] AMC (5)
    230102 230103 230104 230105 230106
 * [August] Rotorua (quick)
+   230813
 * [August] Ski trip (4)
    230821 230822 230823 230824
 * [September] Wellington double rainbow, Zealandia (2)
@@ -23,11 +18,15 @@ And 2023:
 * [October] Winnipeg, Scarborough and Sydney (3)
    231012 231013-0 231013-1 231013-2
 * [November] Whitireia Park (1)
+   231112
 * [November] Puke Ariki Traverse (1)
+   231118
 * [November/December] Ouvea, Noumea Zoo, Riviere Bleue, Aquarium, Grandes Fougeres, Pic Malawi (6)
    231129 231130 231202 231203 231204 231205
 * [December] Seattle, Montreal, Nelson (4)
    231212 231214 231224 231225
+* Various (5)
+   231029 231102 231116 231122 231206
 
 2024:
 * Various (5)
@@ -63,6 +62,10 @@ And 2023:
    241109
 * [November] Gisborne (4)
    241128 241129 241130 241201
+* [December] Cascade Saddle attempt (6)
+   241219 (/74) 241220 (/121) 241221 (/81) 241222 (/98) 241223 (/149) 241224 (/91)
+* [December] French Polynesia (7)
+   241224 241225 241226 241227 241228 241229 241230 241231
 
 ## Supplementary list
 
