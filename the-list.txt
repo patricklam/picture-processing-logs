@@ -2,7 +2,7 @@
 
 2023:
 * [January] AMC (5)
-   230102 230103 230104 230105 230106
+   230103 230104 230105 230106
 * [February] Waterloo birbs
    230205
 * [August] Rotorua (quick)
@@ -31,8 +31,6 @@
    240107 240114 240122 240424 240603
 * [February] Travers-Sabine (7)
    240203 240204 240205 240206 240207 240208 240209
-* [May] Doubtful Sound (1)
-   240526
 * [June] Light Cycles
    240605
 * [June] Nairn St Cottage
@@ -64,6 +62,10 @@
    241219 (/74) 241220 (/121) 241221 (/81) 241222 (/98) 241223 (/149) 241224 (/91)
 * [December/January] French Polynesia (10)
    241224 241225 241226 241227 241228 241229 241230 241231 250101 250102 250105
+
+2025:
+* [January] Montreal
+* [January] Regina (almost none!)
 
 ## Supplementary list
 
