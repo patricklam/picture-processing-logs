@@ -1,7 +1,7 @@
 ## The List
 
 2023:
-* [January] AMC (5)
+* [January] AMC (4)
    230103 230104 230105 230106
 * [February] Waterloo birbs
    230205
