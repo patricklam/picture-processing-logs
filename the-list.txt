@@ -4,10 +4,8 @@
 * [January] misc (5)
    230107 230108 230113 230120 230129
 (march-july cellphone photos)
-* [August] Rotorua (quick)
-   230813
 * [August] Ski trip (4)
-   230821 230822 230823 230824
+   230822 230823 230824
 * [September] Wellington double rainbow, Zealandia (2)
    230905 230924
 * [September] Waterloo/Calgary/Seattle/Squamish (8)
@@ -55,12 +53,12 @@
    241102
 * [November] Johnston Hill and Zealandia
    241109
-* [November] Gisborne (4)
-   241128 241129 241130 241201
+* [November] Gisborne (3)
+   241128 241129 241130
 * [December] Cascade Saddle attempt (6)
    241219 (/74) 241220 (/121) 241221 (/81) 241222 (/98) 241223 (/149) 241224 (/91)
-* [December/January] French Polynesia (9)
-   241224 241225 241226 241227 241228 241229 241230 241231 250101 250105
+* [December/January] French Polynesia (8)
+   241224 241225 241226 241227 241228 241229 241230 241231 250105
 
 2025:
 * Various
@@ -75,8 +73,12 @@
    250306 250307 250308 250309
 * [March] Peterborough and Ottawa
    250316
-* [April] Lima (6)
-   250413-0 250413-1 250414 250415 250417 250418
+* [April] Lima (5)
+   250413-1 250414 250415 250416 250417 250418
+* [April] Montreal (3)
+   250429 250430 250501
+* [May] Estonia (10)
+   250502 250503-0 250504 250505 250506 250507 250508 250509 250510 250511
 
 ## Supplementary list
 
