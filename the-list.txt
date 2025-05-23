@@ -59,22 +59,24 @@
    241128 241129 241130 241201
 * [December] Cascade Saddle attempt (6)
    241219 (/74) 241220 (/121) 241221 (/81) 241222 (/98) 241223 (/149) 241224 (/91)
-* [December/January] French Polynesia (10)
-   241224 241225 241226 241227 241228 241229 241230 241231 250101 250102 250105
+* [December/January] French Polynesia (9)
+   241224 241225 241226 241227 241228 241229 241230 241231 250101 250105
 
 2025:
-* Various (2)
-   250328 250401
+* Various
+   250328
 * [January] Montreal
 * [January] Regina (almost none!)
-* [February] Japan (10)
-   250215 250216 250217 250218 250219 250220 250221 250222 250223 250224
-* [February] Kingston (2)
+* [February] Japan (7)
+   250218 250219 250220 250221 250222 250223 250224
+* [February/March] Kingston (2)
    250228 250301
-* [March] Edmonton (3)
-   250306 250307 250308
-* [April] Lima / Paracas (6)
-   250411 250413 (/842) 250414 250415 250417 250418
+* [March] Edmonton (4)
+   250306 250307 250308 250309
+* [March] Peterborough and Ottawa
+   250316
+* [April] Lima (6)
+   250413-0 250413-1 250414 250415 250417 250418
 
 ## Supplementary list
 
