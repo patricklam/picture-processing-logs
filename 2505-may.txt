@@ -1,11 +1,24 @@
 # done this month
 
+230107-wlg-to-yyz (33/61)
+https://gallery.patricklam.ca/index.php?/category/2070
+
+230108-around-waterloo (19/68)
+https://gallery.patricklam.ca/index.php?/category/2073
+
 230821-treble-cone (27/60)
 https://gallery.patricklam.ca/index.php?/category/2063
+
+240622-kapiti-island-redux (80/347)
+Kapiti Island Redux, June 22 2024
+https://gallery.patricklam.ca/index.php?/category/2072
 
 241201-gisborne-cooks-cove (44/128)
 Cooks Cove and Star of Canada, December 1
 https://gallery.patricklam.ca/index.php?/category/2065
+
+241231-around-tahiti-mostly-papeete-market (34/124)
+https://gallery.patricklam.ca/index.php?/category/2069
 
 250101-belvedere-papeete (52/125)
 Walk from Papeete to O Belvèdere, January 1
@@ -17,6 +30,12 @@ https://gallery.patricklam.ca/index.php?/category/2046
 250413-0-isla-blanca (89/515)
 https://gallery.patricklam.ca/index.php?/category/2057
 
+250413-1-paracas-reserve (43/125)
+https://gallery.patricklam.ca/index.php?/category/2078
+
+250413-2-around-paracas-town (47/205)
+https://gallery.patricklam.ca/index.php?/category/2077
+
 250427-rouge-urban-national-park (27/98)
 https://gallery.patricklam.ca/index.php?/category/2059
 
@@ -27,6 +46,10 @@ https://gallery.patricklam.ca/index.php?/category/2060
 250428-ottawa (18/26)
 Ottawa, April 28
 https://gallery.patricklam.ca/index.php?/category/2058
+
+250429-montreal (42/110)
+Montreal, April 29
+https://gallery.patricklam.ca/index.php?/category/2076
 
 Old Tallinn, May 3 2025 (67/206)
 250103-1-old-tallinn
@@ -45,24 +68,21 @@ https://gallery.patricklam.ca/index.php?/category/2068
 
 # next in list:
 
+230113-car-retrieval-and-tremblant (/64)
 
-241231-around-tahiti (/124)
+230822-cardrona-day-3 (/77)
 
-230107-wlg-to-yyz (/61)
-
-230822-cardona-day-2 (/77)
-
-
-Paracas Reserve, April 13 2025 (/363)
+231118-puke-ariki-traverse (/154)
 
 250416-seminar-day-2-and-lima (/33)
 
 Tallinn Birds, May 3 2025 (/710)
 
+250509-tartu (/65)
 
-Kapiti Island Redux, June 22 2024 (/347)
+250510-southern-estonia (/318)
 
-
+240629-old-ghost-road-day-2-to-stern-valley (/342)
 
 
 # also on list eventually
@@ -71,5 +91,8 @@ Kapiti Island Redux, June 22 2024 (/347)
 # COVID and other links
 
 https://buttondown.com/dznz/archive/we-are-all-mad-now/
+
+
+https://www.medscape.com/viewarticle/frances-new-nasal-vaccine-aims-cut-covid-transmission-2025a1000a3b
 
 https://www.thebestviewpoints.com/2024/11/10/estonia-suur-munamagi/

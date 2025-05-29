@@ -1,8 +1,8 @@
 ## The List
 
 2023:
-* [January] misc (5)
-   230107 230108 230113 230120 230129
+* [January] misc (3)
+   230113 230120 230129
 (march-july cellphone photos)
 * [August] Ski trip (4)
    230822 230823 230824
@@ -32,8 +32,8 @@
    240605
 * [June] Nairn St Cottage
    240615
-* [June] Kapiti Island (2)
-   240622 240623
+* [June] Kapiti Island (1)
+   240623
 * [June/July] Old Ghost Road (6)
    240627 240628 240629 240701 240702 240703
 * [July] Melbourne/Cairns (7)
@@ -78,7 +78,13 @@
 * [April] Montreal (3)
    250429 250430 250501
 * [May] Estonia (10)
-   250502 250503-0 250504 250505 250506 250507 250508 250509 250510 250511
+   250502 250503-0 250504 250505 250506 250507 250508 250509 250510 250511 250512-0
+* [May] Waterloo
+   250512-1
+* [May] Canadian Nationals (4)
+   250514 250515 250517 250520
+* [May] Escarpment Track
+   250524
 
 ## Supplementary list
 
