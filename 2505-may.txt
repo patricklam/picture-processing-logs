@@ -6,12 +6,23 @@ https://gallery.patricklam.ca/index.php?/category/2070
 230108-around-waterloo (19/68)
 https://gallery.patricklam.ca/index.php?/category/2073
 
+230113-car-retrieval-and-tremblant (42/63)
+https://gallery.patricklam.ca/index.php?/category/2080
+
+230813-rotorua (22/92)
+Roturua, August 13 2023
+https://gallery.patricklam.ca/index.php?/category/2060
+
 230821-treble-cone (27/60)
 https://gallery.patricklam.ca/index.php?/category/2063
 
 240622-kapiti-island-redux (80/347)
 Kapiti Island Redux, June 22 2024
 https://gallery.patricklam.ca/index.php?/category/2072
+
+240623-kapiti-island-day-2 (34/109)
+Back from Kapiti Island, June 23 (34/109)
+https://gallery.patricklam.ca/index.php?/category/2079
 
 241201-gisborne-cooks-cove (44/128)
 Cooks Cove and Star of Canada, December 1
@@ -24,9 +35,6 @@ https://gallery.patricklam.ca/index.php?/category/2069
 Walk from Papeete to O Belvèdere, January 1
 https://gallery.patricklam.ca/index.php?/category/2062
 
-250421-waterloo-misc (2/29) -> merged with 250406
-https://gallery.patricklam.ca/index.php?/category/2046
-
 250413-0-isla-blanca (89/515)
 https://gallery.patricklam.ca/index.php?/category/2057
 
@@ -36,12 +44,11 @@ https://gallery.patricklam.ca/index.php?/category/2078
 250413-2-around-paracas-town (47/205)
 https://gallery.patricklam.ca/index.php?/category/2077
 
+250421-waterloo-misc (2/29) -> merged with 250406
+https://gallery.patricklam.ca/index.php?/category/2046
+
 250427-rouge-urban-national-park (27/98)
 https://gallery.patricklam.ca/index.php?/category/2059
-
-230813-rotorua (22/92)
-Roturua, August 13 2023
-https://gallery.patricklam.ca/index.php?/category/2060
 
 250428-ottawa (18/26)
 Ottawa, April 28
@@ -60,7 +67,6 @@ https://gallery.patricklam.ca/index.php?/category/2068
 
 # to upload
 
-
 # some topazAI needed
 
 # almost ready
@@ -68,11 +74,11 @@ https://gallery.patricklam.ca/index.php?/category/2068
 
 # next in list:
 
-230113-car-retrieval-and-tremblant (/64)
-
 230822-cardrona-day-3 (/77)
 
 231118-puke-ariki-traverse (/154)
+
+250414-lima-again (/206)
 
 250416-seminar-day-2-and-lima (/33)
 
@@ -84,6 +90,7 @@ Tallinn Birds, May 3 2025 (/710)
 
 240629-old-ghost-road-day-2-to-stern-valley (/342)
 
+250218-takajiri-to-chiatsuyu (/296)
 
 # also on list eventually
 
@@ -96,3 +103,8 @@ https://buttondown.com/dznz/archive/we-are-all-mad-now/
 https://www.medscape.com/viewarticle/frances-new-nasal-vaccine-aims-cut-covid-transmission-2025a1000a3b
 
 https://www.thebestviewpoints.com/2024/11/10/estonia-suur-munamagi/
+
+https://investors.modernatx.com/news/news-details/2025/Moderna-Receives-U-S--FDA-Approval-for-COVID-19-Vaccine-mNEXSPIKE/
+https://www.statnews.com/2025/05/31/moderna-covid-vaccine-mnexspike-fda-approval/
+
+https://absolutelymaybe.plos.org/2025/05/31/intranasal-vaccine-trial-results-and-more-on-preventing-covid-infection-nextgen-vax-update-29/

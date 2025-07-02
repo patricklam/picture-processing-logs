@@ -1,11 +1,9 @@
 ## The List
 
 2023:
-* [January] misc (3)
-   230113 230120 230129
+* [January] misc (1)
+   230129
 (march-july cellphone photos)
-* [August] Ski trip (4)
-   230822 230823 230824
 * [September] Wellington double rainbow, Zealandia (2)
    230905 230924
 * [September] Waterloo/Calgary/Seattle/Squamish (8)
@@ -13,15 +11,15 @@
 * [October] Winnipeg, Scarborough and Sydney (3)
    231012 231013-0 231013-1 231013-2
 * [November] Whitireia Park (1)
-   231112
-* [November] Puke Ariki Traverse (1)
-   231118
-* [November/December] Ouvea, Noumea Zoo, Riviere Bleue, Aquarium, Grandes Fougeres, Pic Malawi (6)
-   231129 231130 231202 231203 231204 231205
+   231112 (/25)
+* [November] Waiopehu (2)
+   231126 231127
+* [November/December] Ouvea, Noumea Zoo, Riviere Bleue, Aquarium, Grandes Fougeres, Pic Malawi (7)
+   231128 231129 231130 231202 231203 231204 231205
 * [December] Seattle, Montreal, Nelson (4)
    231212 231214 231224 231225
-* Various (5)
-   231029 231102 231116 231122 231206
+* Various (4)
+   231102 231116 231122 231206
 
 2024:
 * Various (6)
@@ -32,8 +30,6 @@
    240605
 * [June] Nairn St Cottage
    240615
-* [June] Kapiti Island (1)
-   240623
 * [June/July] Old Ghost Road (6)
    240627 240628 240629 240701 240702 240703
 * [July] Melbourne/Cairns (7)
@@ -43,14 +39,12 @@
 * [September] Skyline
 * [September] Japan (6)
    240921 240922 240927 240928 240929 240930
-* [October] Rotorua (1)
-   241013
+* [October] Rotorua (2)
+   241011 241013
 * [October] Ontario
    241016/17/18/19/20 
-* [October] Pasadena
+* [October] Pasadena (5)
    241021/22/23 241024 241025/26 241027 241029
-* [November] Remutakas (1)
-   241102
 * [November] Johnston Hill and Zealandia
    241109
 * [November] Gisborne (3)
@@ -74,17 +68,19 @@
 * [March] Peterborough and Ottawa
    250316
 * [April] Lima (5)
-   250413-1 250414 250415 250416 250417 250418
-* [April] Montreal (3)
-   250429 250430 250501
-* [May] Estonia (10)
-   250502 250503-0 250504 250505 250506 250507 250508 250509 250510 250511 250512-0
-* [May] Waterloo
-   250512-1
-* [May] Canadian Nationals (4)
-   250514 250515 250517 250520
+   250414 250415 250416 250417 250418
+* [April] Montreal (2)
+   250430 250501
+* [May] Estonia (8)
+   250502 250503-0 250504 250507 250508 250510-1 250511 250512-0
 * [May] Escarpment Track
    250524
+* [June] Korean Festival in Wellington/WJA (2)
+   250602 250604
+* [June] Australian Nationals (4)
+   250604 (/36) 
+* [June] PLDI (11)
+   250615 (/80) 250616-0 (/139) 250616-1 (/376) 250616-2 (/176) 250616-3 (/275) 250617 (/236) 250619 250620 250621 250622 250623
 
 ## Supplementary list
 
