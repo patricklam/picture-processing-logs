@@ -71,8 +71,8 @@
    250414 250415 250416 250417 250418
 * [April] Montreal (2)
    250430 250501
-* [May] Estonia (8)
-   250502 250503-0 250504 250507 250508 250510-1 250511 250512-0
+* [May] Estonia (7)
+   250502 250504 250507 250508 250510-1 250511 250512-0
 * [May] Escarpment Track
    250524
 * [June] Korean Festival in Wellington/WJA (2)
