@@ -1,13 +1,20 @@
 ## The List
 
 2023:
-* [January] misc (1)
-   230129
-(march-july cellphone photos)
-* [September] Wellington double rainbow, Zealandia (2)
-   230905 230924
-* [September] Waterloo/Calgary/Seattle/Squamish (8)
-   230907 230908 230909 230910 230911 230913 230915 230918
+* [March] Kingston RMC
+   230304
+* [March] Edmonton Intl
+   230312
+* [March] misc
+   230331
+* [April] misc
+   230430
+* [June] misc
+   230629
+* [July] misc
+   230725
+* [September] Waterloo/Calgary/Seattle/Squamish (7)
+   230908 230909 230910 230911 230913 230915 230918
 * [October] Winnipeg, Scarborough and Sydney (3)
    231012 231013-0 231013-1 231013-2
 * [November] Whitireia Park (1)
@@ -71,8 +78,8 @@
    250414 250415 250416 250417 250418
 * [April] Montreal (2)
    250430 250501
-* [May] Estonia (7)
-   250502 250504 250507 250508 250510-1 250511 250512-0
+* [May] Estonia (5)
+   250502 250504 250510-1 250511 250512-0
 * [May] Escarpment Track
    250524
 * [June] Korean Festival in Wellington/WJA (2)
@@ -81,6 +88,11 @@
    250604 (/36) 
 * [June] PLDI (11)
    250615 (/80) 250616-0 (/139) 250616-1 (/376) 250616-2 (/176) 250616-3 (/275) 250617 (/236) 250619 250620 250621 250622 250623
+* [July] Olympus (4)
+   250707 (/39) 250708 (/215) 250709 (/116) 250713 (/37)
+* [July] TMB (13 days, 4131 pictures)
+   250720 (/56) 250721 (/224) 250722 (/323) 250723 (/322) 250724 (/492) 250725 (/195) 250726 (/607) 250727 (/248) 250728 (/235) 250729 (/279) 250730 (/398) 250731 (/542) 250801 (/210)
+
 
 ## Supplementary list
 
