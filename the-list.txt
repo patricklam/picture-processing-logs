@@ -94,8 +94,6 @@
    250802 250803 250805
 * [August] Montreal (2)
    250808 250811
-* [August] Vancouver Queen Elizabeth Park (1)
-   250820
 * [August] Auckland
    250829
 

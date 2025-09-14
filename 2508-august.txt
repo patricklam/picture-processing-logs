@@ -1,7 +1,3 @@
-last copy:
-DSR 4549/250829
-DSA 2535/250829
-
 # done this month
 
 230312-edmonton-intl (23/69)
@@ -16,11 +12,11 @@ https://gallery.patricklam.ca/index.php?/category/2122
 250512-0-tll-to-yyz (24/51)
 https://gallery.patricklam.ca/index.php?/category/2128
 
-250723-tmb-day-3-nant-borrant-to-robert-blanc (112/322)
-https://gallery.patricklam.ca/index.php?/category/2119
-
 250709-ath-and-to-litochoro (38/116)
 https://gallery.patricklam.ca/index.php?/category/2123
+
+250723-tmb-day-3-nant-borrant-to-robert-blanc (112/322)
+https://gallery.patricklam.ca/index.php?/category/2119
 
 250801-tmb-day-12-lac-blanc-to-planpraz-etc (63/297)
 https://gallery.patricklam.ca/index.php?/category/2126
@@ -92,3 +88,4 @@ https://scitechdaily.com/new-mrna-cancer-vaccine-delivers-stunning-results-spark
 https://www.medrxiv.org/content/10.1101/2025.08.12.25333155v1?mc_cid=ac031746e8&mc_eid=3cdf565242
 https://www.yalemedicine.org/news/covid-vaccines-reduce-long-covid-risk-new-study-shows?utm_source=substack&utm_medium=email
 
+https://absolutelymaybe.plos.org/2025/08/31/more-new-covid-vaccine-candidates-trials-and-preclinical-studies-nextgen-update-32/
