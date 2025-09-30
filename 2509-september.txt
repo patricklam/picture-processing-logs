@@ -1,11 +1,42 @@
 last copy:
-DSR 4617/250908
-DSA 2596/250908
+DSR 4641/250920
+DSA 3004/250929
 
 # done this month
 
+230325-champ-prov-qc (33/73)
+https://gallery.patricklam.ca/index.php?/category/2143
+
+230908-waterloo-birbs
+230909-quick-stop-in-kw (15/43)
+https://gallery.patricklam.ca/index.php?/category/2141
+
+230910-to-calgary (15/23)
+https://gallery.patricklam.ca/index.php?/category/2140
+
+250414-lima-again (77/206)
+https://gallery.patricklam.ca/index.php?/category/2139
+
+250502-tallinn (85/271)
+https://gallery.patricklam.ca/index.php?/category/2138
+
+250504-tallinn-to-tartu (61/144)
+https://gallery.patricklam.ca/index.php?/category/2137
+
+250707-wlg-akl (16/39)
+https://gallery.patricklam.ca/index.php?/category/2136
+
+250713-ath-to-yul (21/37)
+https://gallery.patricklam.ca/index.php?/category/2135
+
+250811-ile-st-bernard (30/222)
+https://gallery.patricklam.ca/index.php?/category/2134
+
 250820-vancouver-qe-park-and-bloedel (61/428)
 https://gallery.patricklam.ca/index.php?/category/2132
+
+230908-waterloo-birbs-and-quick-stop (15/43)
+https://gallery.patricklam.ca/index.php?/category/2141
 
 # to upload
 
@@ -15,32 +46,27 @@ https://gallery.patricklam.ca/index.php?/category/2132
 
 # next in list:
 
-250811-ile-st-bernard (/222) 79
-250713-ath-to-yul (/37)
+230331-around-waterloo (/69)
+250902-onto-tasman-glacier (/150)
+250511-tallinn-again (/388) 266
 250724-tmb-day-4 (/493) 321
-250502-tallinn (/271) 210
+250415-seminar-day-1 (/16)
+250708-yvr (/218) 122
 
 ## category: old
 
-230325-champ-prov-qc (/73)
 
 ## category: tmb
-
+250721-tmb-day-1-planpraz-to-les-houches (/208)
 
 ## category: other
 
 240629-old-ghost-road-day-2-to-stern-valley (/342) 199
 
-## category: lima (4)
-250414-lima-again (/206) 98
-250415 (/16)
+## category: lima (3)
 250417 (/246)
 250418 (/35)
 
-## category: estonia 
-
-250504-tallinn-to-tartu (/144) 74
-250511-tallinn-again (/388) 266
 
 
 # also on list eventually
@@ -50,4 +76,10 @@ https://gallery.patricklam.ca/index.php?/category/2132
 
 # news
 
+
+https://exple.tive.org/blarg/2023/06/12/ultraviolet-light-my-way/
+https://www.statnews.com/2025/09/06/covid-misinformation-bar-strangers-public-health-science/
+https://archive.md/X2JqR
+https://www.csic.es/es/actualidad-del-csic/una-vacuna-intranasal-experimental-elimina-el-virus-del-covid-19-en-ratones
+https://www.illmarks.com/symptoms-are-coming-long-covid-prevention-tips/
 
