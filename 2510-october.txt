@@ -1,8 +1,127 @@
 last copy:
-DSR 4641/250920
-DSA 3004/250929
+DSR 4666/251027
+DSA 3207/251101
 
 # done this month
+
+230331-around-waterloo (32/69)
+https://gallery.patricklam.ca/index.php?/category/2149
+
+230430-around-waterloo (50/76)
+https://gallery.patricklam.ca/index.php?/category/2158
+
+230629-around-wellington (33/76)
+https://gallery.patricklam.ca/index.php?/category/2166
+
+230725-around-wellington (56/92)
+https://gallery.patricklam.ca/index.php?/category/2183
+
+230911-calgary-judo (11/18)
+230913-yyc (12/35)
+https://gallery.patricklam.ca/index.php?/category/2154
+
+230915-seattle (19/67)
+https://gallery.patricklam.ca/index.php?/category/2155
+
+230917-squamish-and-to-yvr (16/20)
+230918-to-sydney (10/27)
+https://gallery.patricklam.ca/index.php?/category/2159
+
+231012-to-winnipeg (47/113)
+https://gallery.patricklam.ca/index.php?/category/2164
+
+231013-0-winnipeg-to-the-forks (36/101)
+https://gallery.patricklam.ca/index.php?/category/2174
+
+231013-1-human-rights-museum (26/56)
+https://gallery.patricklam.ca/index.php?/category/2148
+
+231013-2-more-winnipeg-walking (35/90)
+https://gallery.patricklam.ca/index.php?/category/2175
+
+231014-manitoba-open-and-park (21/128)
+https://gallery.patricklam.ca/index.php?/category/2161
+
+231021-waterloo-and-ontario (6/12)
+https://gallery.patricklam.ca/index.php?/category/2177
+
+231022-flying-to-sea (9/19)
+https://gallery.patricklam.ca/index.php?/category/2178
+
+231023-a-day-in-seattle (23/66)
+https://gallery.patricklam.ca/index.php?/category/2184
+
+231104-johnston-hill (11/26)
+https://gallery.patricklam.ca/index.php?/category/2191
+
+231112-whitireia-park (16/25)
+https://gallery.patricklam.ca/index.php?/category/2150
+
+231128-wlg-to-nou (44/72)
+https://gallery.patricklam.ca/index.php?/category/2192
+
+241224-0-queenstown (33/94)
+https://gallery.patricklam.ca/index.php?/category/2180
+
+250430-montreal (11/18)
+https://gallery.patricklam.ca/index.php?/category/2145
+
+250501-0-montreal-parents-garden (13/55)
+https://gallery.patricklam.ca/index.php?/category/2146
+
+250501-1-yul-to-cdg (10/29)
+https://gallery.patricklam.ca/index.php?/category/2147
+
+250511-tallinn-again (101/388)
+https://gallery.patricklam.ca/index.php?/category/2144
+
+250616-1-century-park (61/375)
+https://gallery.patricklam.ca/index.php?/category/2190
+
+250708-yvr (70/218)
+https://gallery.patricklam.ca/index.php?/category/2160
+
+250724-0-tmb-day-4 (75/277)
+https://gallery.patricklam.ca/index.php?/category/2189
+
+250724-1-tmb-day-4 (58/217)
+https://gallery.patricklam.ca/index.php?/category/2188
+
+250808-mont-royal (23/116)
+https://gallery.patricklam.ca/index.php?/category/2163
+
+250901-akl-to-gis-to-wlg (24/55)
+https://gallery.patricklam.ca/index.php?/category/2182
+
+250902-0-wlg-to-mt-cook-village (14/30)
+https://gallery.patricklam.ca/index.php?/category/2152
+
+250902-1-onto-tasman-glacier (47/120)
+https://gallery.patricklam.ca/index.php?/category/2153
+
+250903-off-tasman-glacier (46/136)
+https://gallery.patricklam.ca/index.php?/category/2176
+
+250906-ski-touring-tc (43/82)
+https://gallery.patricklam.ca/index.php?/category/2185
+
+250913-city-to-sea (13/40)
+https://gallery.patricklam.ca/index.php?/category/2165
+
+250919-ringatoto-recon (31/117)
+https://gallery.patricklam.ca/index.php?/category/2187
+
+250920-tukino-ski-meet (75/165)
+https://gallery.patricklam.ca/index.php?/category/2169
+
+250921-tukino-lodge-and-waterfalls (27/58)
+https://gallery.patricklam.ca/index.php?/category/2170
+
+250927-skiing-turoa (25/49)
+https://gallery.patricklam.ca/index.php?/category/2173
+
+251031-around-wellington (17/56)
+https://gallery.patricklam.ca/index.php?/category/2193
 
 
 # to upload
@@ -11,40 +130,43 @@ DSA 3004/250929
 
 # almost ready
 
+
 # next in list:
 
-230331-around-waterloo (/69)
-250902-onto-tasman-glacier (/150)
-250511-tallinn-again (/388) 266
-250724-tmb-day-4 (/493) 321
 250415-seminar-day-1 (/16)
-250708-yvr (/218) 122
-
-## category: old
-230911-calgary-judo (/18)
-230913-yyc (/35)
-230915-seattle (/67)
-230917-squamish-and-to-yvr (/20)
-
-
-## category: tmb
-250721-tmb-day-1-planpraz-to-les-houches (/208)
-
-## category: other
 
 240629-old-ghost-road-day-2-to-stern-valley (/342) 199
 
-## category: lima (3)
-250415-seminar-day-1 (/16)
-250417 (/246)
-250418 (/35)
+## category: old
+
+
+## category: tmb
+250721-tmb-day-1-planpraz-to-les-houches (/208)  136
+
+## category: other
+250829-auckland-coast-to-coast (/430) 220
+250831-auckland-north-islands-etc (/117) 80
+231126-waiopehu-day-1 (/94) 78
+231127-waiopehu-day-2 (/29)
+
+## category: lima (2)
+250417-lima-after-seminar (/246) 230
+250418-lim-to-yyz (/35)
 
 
 
 # also on list eventually
 
-# purchases
 
+
+# purchases
+wok Cooker King - Master Chef C$26
 
 # news
 
+https://www.nature.com/articles/s42003-025-08819-w
+https://www.scientificamerican.com/article/new-study-finds-annual-covid-vaccines-protect-people-against-severe-disease/
+
+https://www.nytimes.com/2025/10/20/well/peanut-allergy-drop.html?smid=nytcore-ios-share&referringSource=articleShare
+https://www.nature.com/articles/d41586-025-03432-7
+https://www.eurekalert.org/news-releases/1099993
