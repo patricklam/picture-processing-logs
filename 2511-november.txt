@@ -1,9 +1,91 @@
 last copy:
-DSR 4666/251027
-DSA 3207/251101
+DSR 4830/251123
+DSA 3687/251130
 
 # done this month
 
+231125-around-wellington (16/44)
+https://gallery.patricklam.ca/index.php?/category/2209
+
+231126-waiopehu-day-1 (39/94)
+https://gallery.patricklam.ca/index.php?/category/2195
+
+231127-waiopehu-day-2 (17/29)
+https://gallery.patricklam.ca/index.php?/category/2196
+
+231128-0-wlg-to-nou (38/55) (reupload)
+https://gallery.patricklam.ca/index.php?/category/2192
+
+231128-1-nou-to-uve (21/66)
+https://gallery.patricklam.ca/index.php?/category/2205
+
+231129-ouvea (54/182)
+https://gallery.patricklam.ca/index.php?/category/2207
+
+231130-0-leaving-ouvea (20/87)
+https://gallery.patricklam.ca/index.php?/category/2206
+
+231130-1-noumea-zoo (65/348)
+https://gallery.patricklam.ca/index.php?/category/2208
+
+231202-noumea-aquarium-and-acjd-tournament (60/292)
+https://gallery.patricklam.ca/index.php?/category/2217
+
+231203-grandes-fougeres (30/154) (reupload)
+https://gallery.patricklam.ca/index.php?/category/1801
+
+231204-pic-malawi (40/153)
+https://gallery.patricklam.ca/index.php?/category/2218
+
+231205-0-back-to-wlg (23/53)
+https://gallery.patricklam.ca/index.php?/category/2220
+
+250616-2-bund (55/175)
+https://gallery.patricklam.ca/index.php?/category/2214
+
+250616-3-shanghai-zoo-and-to-gmp (62/275)
+https://gallery.patricklam.ca/index.php?/category/2213
+
+250720-yul-to-gva-to-chamonix (37/79)
+https://gallery.patricklam.ca/index.php?/category/2210
+
+250721-tmb-day-1-planpraz-to-les-houches (77/208)
+https://gallery.patricklam.ca/index.php?/category/2197
+
+250930-around-wellington (31/51)
+https://gallery.patricklam.ca/index.php?/category/2221
+
+251015-wellington-to-auckland (17/25)
+https://gallery.patricklam.ca/index.php?/category/2211
+
+251016-akl-bne-yvr-yyz (22/53)
+https://gallery.patricklam.ca/index.php?/category/2212
+
+251027-whitehorse-quartz-lake (54/223)
+https://gallery.patricklam.ca/index.php?/category/2202
+
+251029-sydney (31/103)
+https://gallery.patricklam.ca/index.php?/category/2219
+
+251101-zealandia (20/202)
+https://gallery.patricklam.ca/index.php?/category/2198
+
+251107-out-to-mitre-flats (24/83)
+https://gallery.patricklam.ca/index.php?/category/2200
+
+251108-mitre-peak-attempt (47/110)
+https://gallery.patricklam.ca/index.php?/category/2203
+
+251109-back-from-mitre-flats (20/46)
+https://gallery.patricklam.ca/index.php?/category/2204
+
+251122-mangatoetoenui-and-tukino (99/348)
+https://gallery.patricklam.ca/index.php?/category/2222
+
+251123-tukino-walkabout (24/54)
+https://gallery.patricklam.ca/index.php?/category/2216
+
+# partially uploaded (to plym but not gallery, do final check)
 
 # to upload
 
@@ -11,8 +93,10 @@ DSA 3207/251101
 
 # almost ready
 
-
 # next in list:
+
+251121-tukino (/36)
+231205-1-wja (/64)
 
 250415-seminar-day-1 (/16)
 
@@ -22,24 +106,27 @@ DSA 3207/251101
 
 
 ## category: tmb
-250721-tmb-day-1-planpraz-to-les-houches (/208)  136
+250728-tmb-day-6-bonatti-to-courmayeur (/607) 285
 
 ## category: other
 250829-auckland-coast-to-coast (/430) 220
 250831-auckland-north-islands-etc (/117) 80
-231126-waiopehu-day-1 (/94) 78
-231127-waiopehu-day-2 (/29)
 
 ## category: lima (2)
 250417-lima-after-seminar (/246) 230
 250418-lim-to-yyz (/35)
 
-
-
 # also on list eventually
-
-
+250219-0-chikatsuyu-to-hongu (/390) 242
 
 # purchases
 
+sent jacket off for repair
+pants repair
+NAS
+
 # news
+
+https://www1.racgp.org.au/newsgp/clinical/australia-set-for-world-first-cervical-cancer-elim
+https://absolutelymaybe.plos.org/2025/11/24/this-evidence-fundamentally-shifts-the-debate-about-the-hpv-vaccine/
+

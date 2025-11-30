@@ -1,14 +1,10 @@
 ## The List
 
 2023:
-* [November] Waiopehu (2)
-   231126  (/94) 231127 (/29)
-* [November/December] Ouvea, Noumea Zoo, Riviere Bleue, Aquarium, Grandes Fougeres, Pic Malawi (7)
-   231129 231130-0 231130-1 231202 231203 231204 231205
-* [December] Seattle, Montreal, Nelson (4)
-   231212 231214 231224 231225
-* Various (4)
-   231102 231116 231122 231125 231206
+* [December] misc
+   231205-1 (/64)
+* [December] Seattle, Montreal, Nelson (11)
+   231211 (/27) 231212 (/242) 231213 (/49) 231214 (/82) 23121[56789] 231220 23122[123] 231224 (/53) 231225 (/167) 231226 231227
 
 2024:
 * Various (6)
@@ -30,7 +26,7 @@
    240921 240922 240927 240928 240929 240930
 * [October] Rotorua (2)
    241011 241013
-* [October] Ontario
+* [October] Ontario (5)
    241016/17/18/19/20 
 * [October] Pasadena (5)
    241021/22/23 241024 241025/26 241027 241029
@@ -64,10 +60,10 @@
    250602 250604
 * [June] Australian Nationals (1)
    250604 (/36) 
-* [June] PLDI (9)
-   250616-2 (/176) 250616-3 (/275) 250617 (/236) 250619 250620 250621 250622 250623
-* [July] TMB (13 days, 4131 pictures) (11 left)
-   250720 (/56) 250721 (/224) 250722 (/323) 250723 (/322) 250725 (/195) 250726 (/607) 250727 (/248) 250728 (/235) 250729 (/279) 250730 (/398) 250731 (/542)
+* [June] PLDI (8)
+   250617 (/236) 250619 250620 250621 250622 250623
+* [July] TMB (13 days, 4131 pictures) (10 left)
+   250722 (/323) 250723 (/322) 250725 (/195) 250726 (/607) 250727 (/248) 250728 (/235) 250729 (/279) 250730 (/398) 250731 (/542)
 * [August] Grenoble (3)
    250802 250803 250805
 * [August] Auckland (2)
@@ -78,12 +74,12 @@
    250907 250909
 * [September] Turoa and cherry blossoms (1)
    250928
-* [September] misc
-   250930
-* [October] Canada
-   251015 251022
-* [October] Whitehorse WFR
-   251026 251027 251028 251029
+* [October] Canada (1)
+   251022
+* [October] Whitehorse WFR (2)
+   251026 251028
+* [November] Tukino again (3)
+   251121
 
 ## Supplementary list
 
