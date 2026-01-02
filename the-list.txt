@@ -1,22 +1,16 @@
 ## The List
 
-2023:
-* [December] misc
-   231205-1 (/64)
-* [December] Seattle, Montreal, Nelson (11)
-   231211 (/27) 231212 (/242) 231213 (/49) 231214 (/82) 23121[56789] 231220 23122[123] 231224 (/53) 231225 (/167) 231226 231227
-
 2024:
-* Various (6)
-   240107 240114 240122 240424 240531 240603 
+* Various (7)
+   240114 240124 240121 240122 240424 240531 240603 
 * [February] Travers-Sabine (7)
    240203 240204 240205 240206 240207 240208 240209
 * [June] Light Cycles
-   240605
+   240605 (/61)
 * [June] Nairn St Cottage
    240615
-* [June/July] Old Ghost Road (6)
-   240627 240628 240629 240701 240702 240703
+* [June/July] Old Ghost Road (4)
+   240627 240701 240702 240703
 * [July] Melbourne/Cairns (7)
    240722 240723 240724 240725 240726
 * [August] Catlins (3)
@@ -34,8 +28,8 @@
    241109
 * [November] Gisborne (3)
    241128 241129 241130
-* [December] Cascade Saddle attempt (6)
-   241219 (/74) 241220 (/121) 241221 (/81) 241222 (/98) 241223 (/149)
+* [December] Cascade Saddle attempt (5)
+   241219 (/74) 241221 (/81) 241222 (/98) 241223 (/149)
 * [December/January] French Polynesia (8)
    241224 241225 241226 241227 241228 241229 241230 241231 250105
 
@@ -58,8 +52,8 @@
    250524
 * [June] Korean Festival in Wellington/WJA (2)
    250602 250604
-* [June] Australian Nationals (1)
-   250604 (/36) 
+* [June] Australian Nationals (4)
+   250605 250606 250607 250608
 * [June] PLDI (8)
    250617 (/236) 250619 250620 250621 250622 250623
 * [July] TMB (13 days, 4131 pictures) (10 left)
@@ -68,18 +62,16 @@
    250802 250803 250805
 * [August] Auckland (2)
    250829 250831
-* [September] Glacier skiing (1)
-   250904
 * [September] Auckland SCAM (2)
    250907 250909
 * [September] Turoa and cherry blossoms (1)
-   250928
-* [October] Canada (1)
-   251022
+   250928 (/205)
 * [October] Whitehorse WFR (2)
    251026 251028
-* [November] Tukino again (3)
-   251121
+* [December] Wellington (2)
+   251220 (/75) 251221 (/78)
+* [December] Quebec (6)
+   251223 (/61) 251226 (/34) 251227 (/29) 251229 (/71) 251230 (/76) 251231 (/62)
 
 ## Supplementary list
 

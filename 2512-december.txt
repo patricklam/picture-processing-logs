@@ -1,6 +1,6 @@
 last copy:
 DSR 4830/251123
-DSA 4295/251211
+DSA 4626/251231
 
 # done this month
 
@@ -16,6 +16,32 @@ https://gallery.patricklam.ca/index.php?/category/2229
 231213-tiger-mountain (30/49)
 https://gallery.patricklam.ca/index.php?/category/2228
 
+231214-seattle-to-islandwood (27/82)
+https://gallery.patricklam.ca/index.php?/category/2233
+
+231219-islandwood (31/55)
+https://gallery.patricklam.ca/index.php?/category/2234
+
+231220-sea-to-yul (10/18)
+https://gallery.patricklam.ca/index.php?/category/2235
+
+231223-montreal
+231224-brossard (24/100)
+https://gallery.patricklam.ca/index.php?/category/2239
+
+231225-brossard-and-to-yyz (25/135)
+https://gallery.patricklam.ca/index.php?/category/2240
+
+231226-yyz-to-yvr-to-nelson
+231227-nelson (41/122)
+https://gallery.patricklam.ca/index.php?/category/2238
+
+240107-four-tracks (31/50)
+https://gallery.patricklam.ca/index.php?/category/2241
+
+240628-old-ghost-road-day-1-to-lyell-saddle (52/176)
+https://gallery.patricklam.ca/index.php?/category/2242
+
 240629-old-ghost-road-day-2-to-stern-valley (82/342)
 https://gallery.patricklam.ca/index.php?/category/2230
 
@@ -28,12 +54,41 @@ https://gallery.patricklam.ca/index.php?/category/2232
 250904-cragging-at-wanaka (27/65)
 https://gallery.patricklam.ca/index.php?/category/2224
 
+251022-waterloo-and-beyond (22/60)
+https://gallery.patricklam.ca/index.php?/category/2246
+
 251121-tukino (5/36) -> added to november list
 https://gallery.patricklam.ca/index.php?/category/2223
 
-# partially uploaded (to plym but not gallery, do final check)
+251129-botanic-garden (26/167)
+https://gallery.patricklam.ca/index.php?/category/2237
+
+251130-around-wellington (41/116)
+https://gallery.patricklam.ca/index.php?/category/2236
+
+251205-pohara (46/166)
+https://gallery.patricklam.ca/index.php?/category/2249
+
+251206-pohara-to-wakefield (16/62)
+https://gallery.patricklam.ca/index.php?/category/2250
+
+251207-0-robert-ridge (64/387)
+https://gallery.patricklam.ca/index.php?/category/2248
+
+251207-1-angelus-peak (50/134)
+https://gallery.patricklam.ca/index.php?/category/2247
+
+251208-phone-search-1 (30/73)
+https://gallery.patricklam.ca/index.php?/category/2245
+
+251209-back-from-angelus-hut (64/224)
+https://gallery.patricklam.ca/index.php?/category/2244
+
+251222-around-wellington (34/136)
+https://gallery.patricklam.ca/index.php?/category/2251
 
 # to upload
+
 
 # some topazAI needed
 
@@ -41,13 +96,10 @@ https://gallery.patricklam.ca/index.php?/category/2223
 
 # next in list:
 
+250722-tmb-day-2-bellevue-to-les-contamines-nant-borrant (/285) 170
 
-231214-seattle-to-islandwood (/82) 58
-
-251209-back-from-angelus-hut (/229) 207
-250604-wlg-to-gold-coast (/68) 66
-
-250722-tmb-day-2-bellevue-to-les-contamines-nant-borrant (/285) 244
+240114-dinosaurs-at-te-papa-and-wrights-hill (/168) 115
+240122-wellington-gardens-magic (/91)
 
 
 ## category: old
@@ -57,7 +109,7 @@ https://gallery.patricklam.ca/index.php?/category/2223
 250726-tmb-day-6-bonatti-to-courmayeur (/607) 285
 
 ## category: other
-250829-auckland-coast-to-coast (/430) 220
+250829-auckland-coast-to-coast (/430) 216
 250831-auckland-north-islands-etc (/117) 80
 
 ## category: lima (2)
@@ -66,12 +118,16 @@ https://gallery.patricklam.ca/index.php?/category/2223
 250418-lim-to-yyz (/35)
 
 # also on list eventually
-250219-0-chikatsuyu-to-hongu (/390) 220
+250219-0-chikatsuyu-to-hongu (/390) 198
 
 # purchases
 
+two icebreaker shirts at AKL (NZ$160 for both)
 
 # news
 
 
 https://www.cdc.gov/mmwr/volumes/74/wr/mm7440a1.htm?s_cid=OS_mm7440a1_w
+
+https://news.mit.edu/2025/new-study-suggests-way-rejuvenate-immune-system-1217
+
