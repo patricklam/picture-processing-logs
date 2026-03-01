@@ -2,19 +2,17 @@
 
 2024:
 * Various (7)
-   240114 240124 240121 240122 240424 240531 240603 
+   240114 (/168) 240424 240531 240603 
 * [February] Travers-Sabine (7)
    240203 240204 240205 240206 240207 240208 240209
-* [June] Light Cycles
-   240605 (/61)
 * [June] Nairn St Cottage
    240615
 * [June/July] Old Ghost Road (4)
    240627 240701 240702 240703
 * [July] Melbourne/Cairns (7)
    240722 240723 240724 240725 240726
-* [August] Catlins (3)
-   240817 240817 240818
+* [August] Catlins (4)
+   240816-0 240816-1 240817 240818
 * [September] Skyline
 * [September] Japan (6)
    240921 240922 240927 240928 240929 240930
@@ -64,14 +62,22 @@
    250829 250831
 * [September] Auckland SCAM (2)
    250907 250909
-* [September] Turoa and cherry blossoms (1)
-   250928 (/205)
 * [October] Whitehorse WFR (2)
    251026 251028
-* [December] Wellington (2)
-   251220 (/75) 251221 (/78)
+* [December] Wellington (1)
+   251221 (/78)
 * [December] Quebec (6)
    251223 (/61) 251226 (/34) 251227 (/29) 251229 (/71) 251230 (/76) 251231 (/62)
+
+2026:
+* [January] Quebec (3)
+   260101 260102 260103
+* [February] Madawaska Ice Fest (1)
+   260207-1
+* [February] Cascade Saddle (9)
+   260218 260219 260220 260221 260222-0 260222 260223 260224 260225
+* Various
+   260131
 
 ## Supplementary list
 

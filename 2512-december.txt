@@ -4,87 +4,87 @@ DSA 4626/251231
 
 # done this month
 
-231205-1-wja (22/64)
+231205-1-wja (22/64) Y
 https://gallery.patricklam.ca/index.php?/category/2226
 
-231211-wlg-akl-yvr (15/36)
+231211-wlg-akl-yvr (15/36) Y
 https://gallery.patricklam.ca/index.php?/category/2227
 
-231212-vancouver (68/233)
+231212-vancouver (68/233) Y
 https://gallery.patricklam.ca/index.php?/category/2229
 
-231213-tiger-mountain (30/49)
+231213-tiger-mountain (30/49) Y
 https://gallery.patricklam.ca/index.php?/category/2228
 
-231214-seattle-to-islandwood (27/82)
+231214-seattle-to-islandwood (27/82) Y
 https://gallery.patricklam.ca/index.php?/category/2233
 
-231219-islandwood (31/55)
+231219-islandwood (31/55) Y
 https://gallery.patricklam.ca/index.php?/category/2234
 
-231220-sea-to-yul (10/18)
+231220-sea-to-yul (10/18) Y
 https://gallery.patricklam.ca/index.php?/category/2235
 
-231223-montreal
-231224-brossard (24/100)
+231223-montreal Y
+231224-brossard (24/100) Y
 https://gallery.patricklam.ca/index.php?/category/2239
 
-231225-brossard-and-to-yyz (25/135)
+231225-brossard-and-to-yyz (25/135) Y
 https://gallery.patricklam.ca/index.php?/category/2240
 
-231226-yyz-to-yvr-to-nelson
-231227-nelson (41/122)
+231226-yyz-to-yvr-to-nelson Y
+231227-nelson (41/122) Y
 https://gallery.patricklam.ca/index.php?/category/2238
 
-240107-four-tracks (31/50)
+240107-four-tracks (31/50) Y
 https://gallery.patricklam.ca/index.php?/category/2241
 
-240628-old-ghost-road-day-1-to-lyell-saddle (52/176)
+240628-old-ghost-road-day-1-to-lyell-saddle (52/176) Y
 https://gallery.patricklam.ca/index.php?/category/2242
 
-240629-old-ghost-road-day-2-to-stern-valley (82/342)
+240629-old-ghost-road-day-2-to-stern-valley (82/342) Y
 https://gallery.patricklam.ca/index.php?/category/2230
 
-241220-cascade-saddle-attempt (38/124)
+241220-cascade-saddle-attempt (38/124) Y
 https://gallery.patricklam.ca/index.php?/category/2225
 
-250604-wlg-to-gold-coast (16/68)
+250604-wlg-to-gold-coast (16/68) Y
 https://gallery.patricklam.ca/index.php?/category/2232
 
-250904-cragging-at-wanaka (27/65)
+250904-cragging-at-wanaka (27/65) Y
 https://gallery.patricklam.ca/index.php?/category/2224
 
-251022-waterloo-and-beyond (22/60)
+251022-waterloo-and-beyond (22/60) Y
 https://gallery.patricklam.ca/index.php?/category/2246
 
 251121-tukino (5/36) -> added to november list
 https://gallery.patricklam.ca/index.php?/category/2223
 
-251129-botanic-garden (26/167)
+251129-botanic-garden (26/167) Y
 https://gallery.patricklam.ca/index.php?/category/2237
 
-251130-around-wellington (41/116)
+251130-around-wellington (41/116) Y
 https://gallery.patricklam.ca/index.php?/category/2236
 
-251205-pohara (46/166)
+251205-pohara (46/166) Y
 https://gallery.patricklam.ca/index.php?/category/2249
 
-251206-pohara-to-wakefield (16/62)
+251206-pohara-to-wakefield (16/62) Y
 https://gallery.patricklam.ca/index.php?/category/2250
 
-251207-0-robert-ridge (64/387)
+251207-0-robert-ridge (64/387) Y
 https://gallery.patricklam.ca/index.php?/category/2248
 
-251207-1-angelus-peak (50/134)
+251207-1-angelus-peak (50/134) Y
 https://gallery.patricklam.ca/index.php?/category/2247
 
-251208-phone-search-1 (30/73)
+251208-phone-search-1 (30/73) Y
 https://gallery.patricklam.ca/index.php?/category/2245
 
-251209-back-from-angelus-hut (64/224)
+251209-back-from-angelus-hut (64/224) Y
 https://gallery.patricklam.ca/index.php?/category/2244
 
-251222-around-wellington (34/136)
+251222-around-wellington (34/136) Y
 https://gallery.patricklam.ca/index.php?/category/2251
 
 # to upload
@@ -123,6 +123,7 @@ https://gallery.patricklam.ca/index.php?/category/2251
 # purchases
 
 two icebreaker shirts at AKL (NZ$160 for both)
+Peak Design camera clip
 
 # news
 
