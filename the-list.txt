@@ -3,8 +3,8 @@
 2024:
 * Various (7)
    240114 (/168) 240424 240531 240603 
-* [February] Travers-Sabine (7)
-   240203 240204 240205 240206 240207 240208 240209
+* [February] Travers-Sabine (6)
+   240204 240205 240206 240207 240208 240209
 * [June] Nairn St Cottage
    240615
 * [June/July] Old Ghost Road (4)
@@ -66,16 +66,16 @@
    251026 251028
 * [December] Wellington (1)
    251221 (/78)
-* [December] Quebec (6)
-   251223 (/61) 251226 (/34) 251227 (/29) 251229 (/71) 251230 (/76) 251231 (/62)
+* [December] Quebec (5)
+   251223 (/61) 251226 (/34) 251227 (/29) 251230 (/76) 251231 (/62)
 
 2026:
 * [January] Quebec (3)
    260101 260102 260103
 * [February] Madawaska Ice Fest (1)
    260207-1
-* [February] Cascade Saddle (9)
-   260218 260219 260220 260221 260222-0 260222 260223 260224 260225
+* [February] Cascade Saddle (5)
+   260218 260219 260222-1 260224 260225
 * Various
    260131
 
