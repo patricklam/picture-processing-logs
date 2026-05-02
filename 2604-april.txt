@@ -1,10 +1,27 @@
-last copy:
+flast copy:
 DSR 4830/251123
-DSA 7158/260228
+DSA 7379/260430
 
 # done this month
+240424-zealandia (18/123)
+https://gallery.patricklam.ca/index.php?/category/2275
+
 251229-bromont-and-mont-bernard (24/73)
 https://gallery.patricklam.ca/index.php?/category/2270
+
+260218-chc-to-mount-cook-village (37/98)
+https://gallery.patricklam.ca/index.php?/category/2271
+
+260219-mt-cook-village-to-wanaka (31/102)
+https://gallery.patricklam.ca/index.php?/category/2273
+
+260225-aoraki (27/46)
+https://gallery.patricklam.ca/index.php?/category/2272
+
+260224-shelter-rock-to-muddy-creek (63/245)
+https://gallery.patricklam.ca/index.php?/category/2274
+
+# to upload
 
 # some topazAI needed
 
@@ -12,13 +29,12 @@ https://gallery.patricklam.ca/index.php?/category/2270
 
 # next in list:
 
-260222-1-cascade-saddle-including-moraine (/271) 190
-260224-shelter-rock-to-muddy-creek (/245) 174
+260222-1-cascade-saddle-including-moraine (/271) 131
 250524-escarpment-track (/125) 60
 250415-seminar-day-1 (/16)
 
-
 240114-dinosaurs-at-te-papa-and-wrights-hill (/168) 67
+240204-travers-sabine-day-1 (/104) 101
 
 250722-tmb-day-2-bellevue-to-les-contamines-nant-borrant (/285) 149
 260207-1-madawaska-ice-fest-indoors (/110) 73
@@ -44,6 +60,11 @@ https://gallery.patricklam.ca/index.php?/category/2270
 
 # purchases
 
+home reno stuff
+Raspberry Pi 5 starter kit 
+https://www.pishop.ca/product/raspberry-pi-5-starter-kit-1gb/
+
 # news
 
-
+did not get tetanus shot (had one in 2024)
+low COVID levels right now, more likely to be a cold
