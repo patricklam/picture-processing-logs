@@ -1,10 +1,61 @@
-flast copy:
+last copy:
 DSR 4830/251123
-DSA 7531/260502
+DSA 8169/260518
 
 # done this month
+240114-dinosaurs-at-te-papa-and-wrights-hill (37/168)
+https://gallery.patricklam.ca/index.php?/category/2281
+
 240204-travers-sabine-day-1 (35/104)
 https://gallery.patricklam.ca/index.php?/category/2279
+
+240205-travers-sabine-day-2 (37/89)
+https://gallery.patricklam.ca/index.php?/category/2282
+
+240206-travers-sabine-day-3 (58/190)
+https://gallery.patricklam.ca/index.php?/category/2286
+
+240207-travers-sabine-day-4 (53/129)
+https://gallery.patricklam.ca/index.php?/category/2287
+
+240208-travers-sabine-day-5-sabine-to-speargrass (43/79)
+https://gallery.patricklam.ca/index.php?/category/2288
+
+240209-nsn-to-wlg (28/68)
+https://gallery.patricklam.ca/index.php?/category/2289
+
+240223-colonial-knob (26/40)
+https://gallery.patricklam.ca/index.php?/category/2292
+
+240227-around-wellington (27/76)
+https://gallery.patricklam.ca/index.php?/category/2291
+
+240317-n-wellington-open (15/36)
+https://gallery.patricklam.ca/index.php?/category/2294
+
+240421-around-wellington (34/60)
+https://gallery.patricklam.ca/index.php?/category/2293
+
+240517-christchurch (59/102)
+https://gallery.patricklam.ca/index.php?/category/2290
+
+240518-canterbury-open (21/66)
+https://gallery.patricklam.ca/index.php?/category/2295
+
+240602-wellington-open (11/39)
+https://gallery.patricklam.ca/index.php?/category/2296
+
+240603-zealandia (15/56)
+https://gallery.patricklam.ca/index.php?/category/2297
+
+240615-nairn-st-cottage (32/45)
+https://gallery.patricklam.ca/index.php?/category/2298
+
+240816-0-dunedin-tunnel-point (50/95)
+https://gallery.patricklam.ca/index.php?/category/2285
+
+240816-1-hoiho-opera (35/191)
+https://gallery.patricklam.ca/index.php?/category/2284
 
 250415-seminar-day-1 (8/16)
 https://gallery.patricklam.ca/index.php?/category/2278
@@ -26,22 +77,22 @@ https://gallery.patricklam.ca/index.php?/category/2276
 
 # next in list:
 
-
-240114-dinosaurs-at-te-papa-and-wrights-hill (/168) 67
-260228-1-field-hockey (/524)
+240729-around-wellington
 
 260207-1-madawaska-ice-fest-indoors (/110) 73
+250726-tmb-day-6-bonatti-to-courmayeur (/607) 285
 
+260228-1-field-hockey (/524) 348
 
 
 ## category: old
 
 
 ## category: tmb
-250726-tmb-day-6-bonatti-to-courmayeur (/607) 285
+250728-tmb-day-8-chalet-val-ferret-to-la-fouly (/327) 169
 
 ## category: other
-250829-auckland-coast-to-coast (/430) 216
+250829-auckland-coast-to-coast (/430) 200
 250831-auckland-north-islands-etc (/117) 80
 
 ## category: lima (2)
@@ -52,8 +103,13 @@ https://gallery.patricklam.ca/index.php?/category/2276
 250219-0-chikatsuyu-to-hongu (/390) 198
 
 # purchases
+https://frame.work/ca/en/products/display-kit?v=FRANGX0001
+https://www.pbtech.co.nz/product/TOLPSK0175/ProsKit-SD-9322M-Smart-Phone--Tablets-Repair-Techn
+notebook at unity books
+
 
 # news
+https://arstechnica.com/health/2026/05/routine-vaccines-may-cut-dementia-risk-experts-have-startling-hypothesis-on-how/
 
 https://medicalxpress.com/news/2026-01-inactivating-sars-cov-virus-focused.html
 https://www.vox.com/future-perfect/488069/glycol-vapors-stop-airborne-pandemic?mc_cid=db841fdcc4&mc_eid=3cdf565242
@@ -61,4 +117,6 @@ https://www.vox.com/future-perfect/488069/glycol-vapors-stop-airborne-pandemic?m
 hantavirus
 https://deplatformdisease.substack.com/p/5a35955a-82f4-4df5-8021-b43f8df30999
 https://brusselssignal.eu/2026/05/korea-university-and-moderna-have-been-working-on-mrna-hantavirus-vaccine-since-2023/
+
+https://discover.swns.com/2026/05/chewing-gum-restores-dads-taste-and-smell-years-after-covid/
 
