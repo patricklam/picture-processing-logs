@@ -1,10 +1,68 @@
 last copy:
 DSR 4830/251123
-DSA 8169/260518
+DSA08355/260613
 
 # done this month
+240627-brook-waimarama (24/70)
+https://gallery.patricklam.ca/index.php?/category/2299
+
+240701-old-ghost-road-rest-day-at-specimen-point (25/76)
+https://gallery.patricklam.ca/index.php?/category/2312
+
+240702-old-ghost-road-day-5-to-seddonville (72/181)
+https://gallery.patricklam.ca/index.php?/category/2313
+
+240703-old-ghost-road-nelson-to-wellington (44/117)
+https://gallery.patricklam.ca/index.php?/category/2314
+
+240722-cairns (47/272)
+https://gallery.patricklam.ca/index.php?/category/2321
+
+240920-around-wellington (16 total/25)
+240831-around-wellington (/21)
+240729-around-wellington (/18)
+https://gallery.patricklam.ca/index.php?/category/2315
+
+250531-wellington-open (28/87)
+https://gallery.patricklam.ca/index.php?/category/2320
+
+250728-tmb-day-8-chalet-val-ferret-to-la-fouly (100/327)
+https://gallery.patricklam.ca/index.php?/category/2316
+
+251226-montreal (17/34)
+https://gallery.patricklam.ca/index.php?/category/2317
+
+260101-mont-grand-fonds (25/48)
+https://gallery.patricklam.ca/index.php?/category/2309
+
+260427-waterloo-to-montreal (16/21)
+https://gallery.patricklam.ca/index.php?/category/2306
+
+260430-various-montreal (18/64)
+https://gallery.patricklam.ca/index.php?/category/2304
+
+260501-montreal-and-to-waterloo (8/13)
+https://gallery.patricklam.ca/index.php?/category/2305
+
+260503-rattlesnake (16/34)
+https://gallery.patricklam.ca/index.php?/category/2301
+
+260508-te-matapihi-wellington-central-library (8/10)
+https://gallery.patricklam.ca/index.php?/category/2302
+
+260524-harbourside-market-and-te-ara-tapua (14/32)
+https://gallery.patricklam.ca/index.php?/category/2307
+
+260529-various-faultline (10/11), not interesting enough to upload
+
+260517-1-travis-wetland (54/329)
+https://gallery.patricklam.ca/index.php?/category/2319
+
+260530-around-wellington (42/89)
+https://gallery.patricklam.ca/index.php?/category/2308
 
 # to upload
+
 
 # some topazAI needed
 
@@ -12,10 +70,9 @@ DSA 8169/260518
 
 # next in list:
 
-240627-brook-waimarama (/70) 69
-240729-around-wellington
+260207-1-madawaska-ice-fest-indoors (/110) 40
+260518-raapaki-track (/93) 68
 
-260207-1-madawaska-ice-fest-indoors (/110) 73
 250726-tmb-day-6-bonatti-to-courmayeur (/607) 285
 
 260228-1-field-hockey (/524) 348
@@ -25,7 +82,7 @@ DSA 8169/260518
 
 
 ## category: tmb
-250728-tmb-day-8-chalet-val-ferret-to-la-fouly (/327) 169
+250729-tmb-day-9-la-fouly-to-relais-darpette
 
 ## category: other
 250829-auckland-coast-to-coast (/430) 200
@@ -39,5 +96,25 @@ DSA 8169/260518
 250219-0-chikatsuyu-to-hongu (/390) 198
 
 # purchases
+instant pot duo 3L (oops too small)
 
 # news
+
+https://hms.harvard.edu/news/new-immune-system-enhancer-extends-covid-19-vaccine-protection-animal-models
+
+https://medicalxpress.com/news/2026-06-metformin-acute-covid-infection-clinician.html
+(note 0.5% vs 1.1% long COVID rates)
+
+# books
+
+David Attenborough invertebrates book:
+
+This book aims to shed light on invertebrates. There are a lot of invertebrate species! I think that as humans, we tend to find fellow vertebrates more charismatic, especially birds, mammals, and 
+primates. And yet, there are so many invertebrates, both in variety and in biomass. And most of them are not cuddly. Indeed, somewhat alien.
+
+Anyway, there are several hundred stories about how invertebrates live, and the clever tricks they use to survive and reproduce, including using resources whereever they are available. Despite
+the providers of the resources not agreeing. And, of course, there is the necessity of guarding from theft and parasitism.
+
+For some of the stories I could hear the famous David Attenborough voice narrating them. I must say, though, that these are usually not the ones that I would expect to go viral.
+
+David Eggleton photography book

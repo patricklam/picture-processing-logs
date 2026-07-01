@@ -2,11 +2,9 @@
 
 2024:
 * Various (3)
-   240729
-* [June/July] Old Ghost Road (4)
-   240627 240701 240702 240703
-* [July] Melbourne/Cairns (7)
-   240722 240723 240724 240725 240726
+   2410, 2411, 2412
+* [July] Melbourne/Cairns (4)
+   240723 240724 240725 240726
 * [August] Catlins (2)
    240817 240818
 * [September] Skyline
@@ -28,7 +26,7 @@
    241224 241225 241226 241227 241228 241229 241230 241231 250105
 
 2025:
-* Various
+* Various (1)
    250328
 * [January] Montreal
 * [January] Regina (almost none!)
@@ -48,8 +46,8 @@
    250605 250606 250607 250608
 * [June] PLDI (8)
    250617 (/236) 250619 250620 250621 250622 250623
-* [July] TMB (13 days, 4131 pictures) (7 left)
-   250725 (/195) 250726 (/607) 250727 (/248) 250728 (/235) 250729 (/279) 250730 (/398) 250731 (/542)
+* [July] TMB (13 days, 4131 pictures) (6 left)
+   250725 (/195) 250726 (/607) 250727 (/248) 250729 (/279) 250730 (/398) 250731 (/542)
 * [August] Grenoble (3)
    250802 250803 250805
 * [August] Auckland (2)
@@ -60,22 +58,26 @@
    251026 251028
 * [December] Wellington (1)
    251221 (/78)
-* [December] Quebec (5)
-   251223 (/61) 251226 (/34) 251227 (/29) 251230 (/76) 251231 (/62)
+* [December] Quebec (4)
+   251223 (/61) 251227 (/29) 251230 (/76) 251231 (/62)
 
 2026:
-* [January] Quebec (3)
-   260101 260102 260103
+* Various (5)
+   260131 260310 260415 
+* [January] Quebec (2)
+   260102 260103
 * [February] Madawaska Ice Fest (1)
    260207-1
 * [February] Vancouver (2)
    260228-0 260228-1
 * [May] Waterloo
-   260502 (/152)
+   260502
 * [May] Sydney
-* [May] Christchurch
-* Various
-   260131 260310 260430 260511
+   260504 260506
+* [May] Christchurch (4)
+   260515 260517-0 260517-1 260518
+* [May] Wellington
+   260511 260530 260531
 
 ## Supplementary list
 
