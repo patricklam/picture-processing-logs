@@ -3,8 +3,6 @@
 2024:
 * Various (3)
    2410, 2411, 2412
-* [July] Melbourne/Cairns (4)
-   240723 240724 240725 240726
 * [August] Catlins (2)
    240817 240818
 * [September] Skyline
@@ -46,8 +44,8 @@
    250605 250606 250607 250608
 * [June] PLDI (8)
    250617 (/236) 250619 250620 250621 250622 250623
-* [July] TMB (13 days, 4131 pictures) (6 left)
-   250725 (/195) 250726 (/607) 250727 (/248) 250729 (/279) 250730 (/398) 250731 (/542)
+* [July] TMB (13 days, 4131 pictures) (4 left)
+   250727 (/248) 250729 (/279) 250730 (/398) 250731-1 (/359)
 * [August] Grenoble (3)
    250802 250803 250805
 * [August] Auckland (2)
@@ -58,26 +56,26 @@
    251026 251028
 * [December] Wellington (1)
    251221 (/78)
-* [December] Quebec (4)
-   251223 (/61) 251227 (/29) 251230 (/76) 251231 (/62)
+* [December] Quebec (2)
+   251230 (/76) 251231 (/62)
 
 2026:
-* Various (5)
-   260131 260310 260415 
+* Various (3)
+   260131 260310 260415 260726 260803 260804
 * [January] Quebec (2)
    260102 260103
-* [February] Madawaska Ice Fest (1)
-   260207-1
 * [February] Vancouver (2)
    260228-0 260228-1
 * [May] Waterloo
-   260502
+   260502 (/152)
 * [May] Sydney
-   260504 260506
-* [May] Christchurch (4)
-   260515 260517-0 260517-1 260518
-* [May] Wellington
-   260511 260530 260531
+   260504 (/33) 260506 (/247)
+* [May] Wellington/Zealandia
+   260511 (/97) 260531 (/132)
+* [July] Kaikoura
+   260712
+* [July] Auckland
+   260727
 
 ## Supplementary list
 

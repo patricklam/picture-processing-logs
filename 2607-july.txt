@@ -1,10 +1,50 @@
 last copy:
-DSR 4830/251123
+DSR 4899/260728
 DSA08355/260613
 
 # done this month
+
+240723-0-great-barrier-reef-early-snorkels (69/413)
+https://gallery.patricklam.ca/index.php?/category/2333
+
+240723-1-great-barrier-reef (34/198)
+https://gallery.patricklam.ca/index.php?/category/2334
+
+240724-great-barrier-reef (29/134)
+https://gallery.patricklam.ca/index.php?/category/2335
+
+240725-kurunda (94/342)
+https://gallery.patricklam.ca/index.php?/category/2336
+
+250726-0-tmb-day-6a-rif-bonatti-stop-to-col-sapin (69/284)
+https://gallery.patricklam.ca/index.php?/category/2325
+
+250726-1-tmb-day-6b-col-sapin-to-courmayeur (71/323)
+https://gallery.patricklam.ca/index.php?/category/2324
+
+251223-wlg-to-yul (35/61)
+https://gallery.patricklam.ca/index.php?/category/2326
+
 260207-1-madawaska-ice-fest-indoors-arlington (26/107)
 https://gallery.patricklam.ca/index.php?/category/2322
+
+260515-to-christchurch (18/29)
+https://gallery.patricklam.ca/index.php?/category/2332
+
+260517-0-christchurch-canterbury-open (18/41)
+https://gallery.patricklam.ca/index.php?/category/2330
+
+260518-raapaki-track (54/97)
+https://gallery.patricklam.ca/index.php?/category/2323
+
+260630-june-photos (41/141)
+https://gallery.patricklam.ca/index.php?/category/2329
+
+260710-blenheim-to-kaikoura (52/265)
+https://gallery.patricklam.ca/index.php?/category/2328
+
+260711-whale-watch-kaikoura (88/896)
+https://gallery.patricklam.ca/index.php?/category/2331
 
 # to upload
 
@@ -15,18 +55,20 @@ https://gallery.patricklam.ca/index.php?/category/2322
 
 # next in list:
 
-260518-raapaki-track (/93) 68
+260228-1-field-hockey (/524) 189
+250725-courmayeur-rest-day (/195) 100
 
-250726-tmb-day-6-bonatti-to-courmayeur (/607) 285
-
-260228-1-field-hockey (/524) 348
-
+240817-catlins-falls (/166)
+240818-nugget-point-and-catlins (/79)
 
 ## category: old
 
 
 ## category: tmb
-250729-tmb-day-9-la-fouly-to-relais-darpette
+250727-tmb-day-7-rif-bonatti-stop-to-chalet-val-ferret (/250)
+250729-tmb-day-9-la-fouly-to-relais-darpette (/281) 226
+250730-tmb-day-10-relais-darpette-to-refuge-les-grands (/398)
+250731-0-tmb-day-11-refuge-les-grands-to-lac-blanc (/359)
 
 ## category: other
 250829-auckland-coast-to-coast (/430) 200
@@ -40,10 +82,53 @@ https://gallery.patricklam.ca/index.php?/category/2322
 250219-0-chikatsuyu-to-hongu (/390) 198
 
 # purchases
-
+another instant pot
+carbon steel wok
 
 # news
 
+https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(26)00244-6/fulltext
+
+https://www.rnz.co.nz/news/regions_local-democracy-reporting/903160/we-were-waiting-for-it-to-blow-kaikoura-river-nearly-overflowed-in-flood
 
 # books
+
+Peter Hurley. The Headshot: The Secrets to Creating Amazing Headshot Portraits.
+
+MP complains that I'm not very good at consistently taking good
+pictures of her.  I tried to read this book to learn more. The author
+has an interesting life story (Olympic sailor to model/actor to
+photographer) and explains his headshot process clearly, so I think I
+did learn a few things.
+
+Portraits are quite different from landscapes, birds, and street
+photography, which are the main forms of photography that I do. The
+amount of control in a studio is way higher. The bird is not going to
+pose for you! At best, you figure out what the bird is going to do,
+and you pre-position yourself to take the picture of the bird.
+
+The fundamental problem, though, is that I can't really look at a
+headshot and say "this is good" and "this is bad". I'm a bit face
+blind. Doesn't help. For instance, at one point, he has two pictures
+of a subject, and says "this side is the good side". I really can't
+tell.
+
+I'm not 100% hopeless though. He references this video of his:
+
+* [How to get a better jawline in photos](https://www.youtube.com/watch?v=Qe3oJnFtA_k)
+
+and I do see what he's talking about. So that is one tip that I can use.
+He's also the source of the line "always be squinching". He definitely squinches
+in that video, and I think it's a bit excessive.
+
+More generally, I'd say that a key idea of the book is to find ways to
+develop rapport with the subject and to get them to look their best
+for you. But not necessarily in a straightforward way: he says that he
+uses misdirection to get people away from thinking that they are in
+front of a camera (and thus looking weird).
+
+Anyway, yes, books are a good source of curated information by an
+author. Better at being a body of work than a bunch of blog posts. He
+uses a lot of pictures to illustrate his point (as he should); not
+being able to fully understand them is a me problem.
 
