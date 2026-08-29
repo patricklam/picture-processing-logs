@@ -3,9 +3,6 @@
 2024:
 * Various (3)
    2410, 2411, 2412
-* [August] Catlins (2)
-   240817 240818
-* [September] Skyline
 * [September] Japan (6)
    240921 240922 240927 240928 240929 240930
 * [October] Rotorua (2)
@@ -57,25 +54,23 @@
 * [December] Wellington (1)
    251221 (/78)
 * [December] Quebec (2)
-   251230 (/76) 251231 (/62)
+   251230 (/76)
 
 2026:
-* Various (3)
-   260131 260310 260415 260726 260803 260804
 * [January] Quebec (2)
    260102 260103
-* [February] Vancouver (2)
-   260228-0 260228-1
+* Various (3)
+   260131 260310 260415 260726 260803 260804
+* [February] Cascade Saddle/Vancouver
+   260228-0
 * [May] Waterloo
    260502 (/152)
-* [May] Sydney
+* [May] Sydney (2)
    260504 (/33) 260506 (/247)
-* [May] Wellington/Zealandia
+* [May] Wellington/Zealandia (2)
    260511 (/97) 260531 (/132)
-* [July] Kaikoura
-   260712
 * [July] Auckland
-   260727
+   260724 260726 260727
 
 ## Supplementary list
 

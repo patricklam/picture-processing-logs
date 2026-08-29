@@ -1,8 +1,14 @@
 last copy:
 DSR 4899/260728
-DSA09623/260804
+DSA02957/260826
 
 # done this month
+
+240817-catlins-falls (38/166)
+https://gallery.patricklam.ca/index.php?/category/2339
+
+240818-nugget-point-and-catlins (32/79)
+https://gallery.patricklam.ca/index.php?/category/2340
 
 251227-sutton (11/30)
 https://gallery.patricklam.ca/index.php?/category/2337
@@ -10,23 +16,40 @@ https://gallery.patricklam.ca/index.php?/category/2337
 250725-courmayeur-rest-day (66/195)
 https://gallery.patricklam.ca/index.php?/category/2338
 
+251231-le-massif (24/63)
+https://gallery.patricklam.ca/index.php?/category/2340
+
+260228-1-field-hockey (60/524)
+https://gallery.patricklam.ca/index.php?/category/2341
+
+260712-cycling-kaikoura-track-and-lake-elterwater (51/165)
+https://gallery.patricklam.ca/index.php?/category/2343
+
+260723-around-wellington (31/57)
+https://gallery.patricklam.ca/index.php?/category/2344
+
+260816-1-barbalas-ridge-descent (53/156)
+https://gallery.patricklam.ca/index.php?/category/2346
+
 # to upload
+
 
 
 # some topazAI needed
 
-# almost ready
+# almost ready (last check)
+
+# needs some inaturalist IDs
 
 # next in list:
 
-240817-catlins-falls (/166) 55
-240818-nugget-point-and-catlins (/79)
-260228-1-field-hockey (/524) 189
-250727-tmb-day-7-rif-bonatti-stop-to-chalet-val-ferret (/250) 212
-260712-cycling-kaikoura-track-and-lake-elterwater (/165) 119
+250727-tmb-day-7-rif-bonatti-stop-to-chalet-val-ferret (/250) 149
+
+250219-0-chikatsuyu-to-hongu (/390) 160
+240921-wlg-to-nrt (/52)
 
 ## category: old
-
+131118-cheetah-etc (/216)
 
 ## category: tmb
 250729-tmb-day-9-la-fouly-to-relais-darpette (/281) 226
@@ -42,9 +65,10 @@ https://gallery.patricklam.ca/index.php?/category/2338
 250418-lim-to-yyz (/35)
 
 # also on list eventually
-250219-0-chikatsuyu-to-hongu (/390) 198
 
 # purchases
+
+wire for USB charger
 
 # news
 
