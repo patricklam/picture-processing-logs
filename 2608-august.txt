@@ -1,6 +1,6 @@
 last copy:
 DSR 4899/260728
-DSA02957/260826
+DSA03554/260828
 
 # done this month
 
@@ -9,6 +9,9 @@ https://gallery.patricklam.ca/index.php?/category/2339
 
 240818-nugget-point-and-catlins (32/79)
 https://gallery.patricklam.ca/index.php?/category/2340
+
+240921-wlg-to-nrt (38/52)
+https://gallery.patricklam.ca/index.php?/category/2348
 
 251227-sutton (11/30)
 https://gallery.patricklam.ca/index.php?/category/2337
@@ -28,6 +31,9 @@ https://gallery.patricklam.ca/index.php?/category/2343
 260723-around-wellington (31/57)
 https://gallery.patricklam.ca/index.php?/category/2344
 
+260815-0-not-naoum-ridge-xerolakki (49/131)
+https://gallery.patricklam.ca/index.php?/category/2349
+
 260816-1-barbalas-ridge-descent (53/156)
 https://gallery.patricklam.ca/index.php?/category/2346
 
@@ -41,12 +47,16 @@ https://gallery.patricklam.ca/index.php?/category/2346
 
 # needs some inaturalist IDs
 
+
 # next in list:
 
-250727-tmb-day-7-rif-bonatti-stop-to-chalet-val-ferret (/250) 149
+240922-tokyo (/302) 236
+250727-tmb-day-7-rif-bonatti-stop-to-chalet-val-ferret (/250) 120
+260815-1-xerolakki (/258) 186
+260816-0-summit-mytikas (/199) 82
+260818-0-thessaloniki-birds-etc (/452) 240
 
 250219-0-chikatsuyu-to-hongu (/390) 160
-240921-wlg-to-nrt (/52)
 
 ## category: old
 131118-cheetah-etc (/216)
@@ -68,7 +78,8 @@ https://gallery.patricklam.ca/index.php?/category/2346
 
 # purchases
 
-wire for USB charger
+wire for USB charger (PlayStation wire)
+lots of Canada stuff
 
 # news
 
