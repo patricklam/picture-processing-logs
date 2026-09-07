@@ -1,13 +1,14 @@
 last copy:
-DSR 4899/260728
+DSR05097/260906
 DSA03554/260828
 
 # done this month
 
-# to upload
-
 260816-0-summit-mytikas (59/199)
 https://gallery.patricklam.ca/index.php?/category/2350
+
+# to upload
+
 
 # some topazAI needed
 
@@ -24,6 +25,8 @@ https://gallery.patricklam.ca/index.php?/category/2350
 260818-0-thessaloniki-birds-etc (/452) 178
 
 250219-0-chikatsuyu-to-hongu (/390) 160
+
+260820-korab (/493) 272
 
 ## category: old
 131118-cheetah-etc (/216)
