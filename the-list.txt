@@ -3,8 +3,8 @@
 2024:
 * Various (3)
    2410, 2411, 2412
-* [September] Japan (6)
-   240921 240922 240927 240928 240929 240930
+* [September] Japan (5)
+   240922 240927 240928 240929 240930
 * [October] Rotorua (2)
    241011 241013
 * [October] Ontario (5)
