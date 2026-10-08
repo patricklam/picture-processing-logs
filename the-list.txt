@@ -3,8 +3,8 @@
 2024:
 * Various (3)
    2410, 2411, 2412
-* [September] Japan (5)
-   240922 240927 240928 240929 240930
+* [September] Japan (4)
+   240928 240929 240930
 * [October] Rotorua (2)
    241011 241013
 * [October] Ontario (5)
@@ -25,8 +25,8 @@
    250328
 * [January] Montreal
 * [January] Regina (almost none!)
-* [February] Japan (7)
-   250218 250219 250220 250221 250222 250223 250224
+* [February] Japan (6)
+   250219-1 250220 250221 250222 250223 250224
 * [February/March] Kingston (2)
    250228 250301
 * [March] Edmonton (4)
@@ -41,8 +41,8 @@
    250605 250606 250607 250608
 * [June] PLDI (8)
    250617 (/236) 250619 250620 250621 250622 250623
-* [July] TMB (13 days, 4131 pictures) (4 left)
-   250727 (/248) 250729 (/279) 250730 (/398) 250731-1 (/359)
+* [July] TMB (13 days, 4131 pictures) (3 left)
+   250729 (/279) 250730 (/398) 250731-1 (/359)
 * [August] Grenoble (3)
    250802 250803 250805
 * [August] Auckland (2)
@@ -53,7 +53,7 @@
    251026 251028
 * [December] Wellington (1)
    251221 (/78)
-* [December] Quebec (2)
+* [December] Quebec (1)
    251230 (/76)
 
 2026:
@@ -73,10 +73,14 @@
    260724 260726 260727
 * [August] Ruapehu
    260803
-* [August] Greece/N Macedonia (13)
-   260814-0 260814-1 260815-1 260817 260818-0 260818-1 260819 260820 260821 260822 260823 260824 260825
+* [August] Greece/N Macedonia (10)
+   260814-0 260814-1 260817 260818-1 260819 260821 260822 260823 260824 260825
 * [August] BC (4)
    260826 260827 260828-0 260828-1
+* [September] Italy (7)
+   260912 260913-0 260913-1 260914 260915 260916 260917
+* [September] Montreal/Waterloo/Toronto (3)
+   260918 260926 260927
 
 ## Supplementary list
 

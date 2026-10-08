@@ -1,22 +1,40 @@
 last copy:
-DSR05097/260906
-DSA03554/260828
+DSR05189/260914
+DSA04770/260915
 
 # done this month
+
+051218-1-fountains (9)
+https://gallery.patricklam.ca/index.php?/category/2353
+
+240922-tokyo (109/302)
+https://gallery.patricklam.ca/index.php?/category/2356
+
+250219-0-chikatsuyu-to-hongu (102/390)
+https://gallery.patricklam.ca/index.php?/category/2355
+
+250727-tmb-day-7-rif-bonatti-stop-to-chalet-val-ferret (80/250)
+https://gallery.patricklam.ca/index.php?/category/2360
+
+260814-0-wlg-to-ath (28/51)
+https://gallery.patricklam.ca/index.php?/category/2358
+
+260815-1-xerolakki (69/258)
+https://gallery.patricklam.ca/index.php?/category/2354
 
 260816-0-summit-mytikas (59/199)
 https://gallery.patricklam.ca/index.php?/category/2350
 
+260818-0-thessaloniki-birds-etc (73/452)
+https://gallery.patricklam.ca/index.php?/category/2352
+
+260820-korab (114/493)
+https://gallery.patricklam.ca/index.php?/category/2357
+
 260906-whakapapa-not-te-heu-heu (51/197)
 https://gallery.patricklam.ca/index.php?/category/2351
 
-260818-0-thessaloniki-birds-etc (73/452)
-https://gallery.patricklam.ca/index.php?/category/2352
-[must upload to google photos and re-upload to plym]
-
 # to upload
-051218-1-fountains (9)
-
 
 # some topazAI needed
 
@@ -24,18 +42,14 @@ https://gallery.patricklam.ca/index.php?/category/2352
 
 # needs some inaturalist IDs
 
-
 # next in list:
-
-240922-tokyo (/302) 150
-250727-tmb-day-7-rif-bonatti-stop-to-chalet-val-ferret (/250) 120
-260815-1-xerolakki (/258) 186
-
-250219-0-chikatsuyu-to-hongu (/390) 160
+240927-tokyo (/79) 52
+240928-ijf-academy-group-pics (/35)
+240929-tokyo (/126) 96
+240930-nrt-to-wlg (/34) 26
 
 260819-0-skopje-mostly-castle (/206) 112
-260819-1-tetovo-and-trinca (/110)
-260820-korab (/493) 272
+260819-1-tetovo-and-trnica (/110)
 
 ## category: old
 131118-cheetah-etc (/216)
@@ -59,7 +73,10 @@ https://gallery.patricklam.ca/index.php?/category/2352
 
 INIU Carry P50 power bank
 SlimQ 100W USB-C GaN charger
+Soundcore Liberty 5 earbuds
+yet another phone stand, charger cable
 
 # news
+https://www.scientificamerican.com/article/one-in-eight-new-cancers-are-likely-caused-by-infections-theres-an-easy-way-to-protect-yourself/
 
 # books
