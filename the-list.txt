@@ -2,17 +2,7 @@
 
 2024:
 * Various (3)
-   2410, 2411, 2412
-* [September] Japan (4)
-   240928 240929 240930
-* [October] Rotorua (2)
-   241011 241013
-* [October] Ontario (5)
-   241016/17/18/19/20 
-* [October] Pasadena (5)
-   241021/22/23 241024 241025/26 241027 241029
-* [November] Johnston Hill and Zealandia
-   241109
+   2411, 2412
 * [November] Gisborne (3)
    241128 241129 241130
 * [December] Cascade Saddle attempt (5)
@@ -42,7 +32,7 @@
 * [June] PLDI (8)
    250617 (/236) 250619 250620 250621 250622 250623
 * [July] TMB (13 days, 4131 pictures) (3 left)
-   250729 (/279) 250730 (/398) 250731-1 (/359)
+   250730 (/398) 250731-1 (/359)
 * [August] Grenoble (3)
    250802 250803 250805
 * [August] Auckland (2)
@@ -59,8 +49,8 @@
 2026:
 * [January] Quebec (2)
    260102 260103
-* Various (3)
-   260131 260310 260415 260726 260804
+* Various (6)
+   260131 260310 260415 260726 260804 261003
 * [February] Cascade Saddle/Vancouver
    260228-0
 * [May] Waterloo
@@ -73,8 +63,8 @@
    260724 260726 260727
 * [August] Ruapehu
    260803
-* [August] Greece/N Macedonia (10)
-   260814-0 260814-1 260817 260818-1 260819 260821 260822 260823 260824 260825
+* [August] Greece/N Macedonia (9)
+   260817 260818-1 260819 260821 260822 260823 260824 260825
 * [August] BC (4)
    260826 260827 260828-0 260828-1
 * [September] Italy (7)
@@ -82,18 +72,3 @@
 * [September] Montreal/Waterloo/Toronto (3)
    260918 260926 260927
 
-## Supplementary list
-
-* 2021 cellphone pictures:
-- January
-- February
-- March
-- April
-- May
-- June
-- July
-- August
-- September
-- October
-- November
-- December
